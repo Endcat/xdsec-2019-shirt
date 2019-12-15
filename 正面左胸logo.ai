@@ -1,0 +1,4093 @@
+%!PS-Adobe-3.0 
+%%Creator: Adobe Illustrator(R) 8.0
+%%AI8_CreatorVersion: 22.0.1
+%%For: (Sijiong Qian) ()
+%%Title: (logo.ai)
+%%CreationDate: 12/8/2019 2:57 PM
+%%Canvassize: 16383
+%%BoundingBox: 1 1 277 277
+%%HiResBoundingBox: 1.5177 1.67999 276.0115 276.5043
+%%DocumentProcessColors:
+%%DocumentSuppliedResources: procset Adobe_level2_AI5 1.2 0
+%%+ procset Adobe_ColorImage_AI6 1.3 0
+%%+ procset Adobe_Illustrator_AI5 1.3 0
+%%+ procset Adobe_cshow 2.0 8
+%%+ procset Adobe_shading_AI8 1.0 0
+%AI5_FileFormat 4.0
+%AI3_ColorUsage: Color
+%AI7_ImageSettings: 0
+%%CMYKProcessColor: 1 1 1 1 ([Registration])
+%%AI6_ColorSeparationSet: 1 1 (AI6 Default Color Separation Set) 
+%%+ Options: 1 16 0 1 1 1 0 0 0 0 1 1 1 18 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 2 3 4
+%%+ PPD: 1 21 0 0 60 45 2 2 1 0 0 1 0 0 0 0 0 0 0 0 1 0 () 
+%AI3_TemplateBox: 139 138.5 139 138.5
+%AI3_TileBox: -167.5 -257 444.5 535
+%AI3_DocumentPreview: None
+%AI5_ArtSize: 1000 1000
+%AI5_RulerUnits: 6
+%AI5_ArtFlags: 0 0 0 1 0 0 1 0 0
+%AI5_TargetResolution: 800
+%AI5_NumLayers: 3
+%AI8_OpenToView: -6.1 272.4 5 1457 885 18 0 0 159 143 0 0
+%AI5_OpenViewLayers: 777
+%%PageOrigin:0 0
+%AI7_GridSettings: 72 8 72 8 1 0 0.8 0.8 0.8 0.9 0.9 0.9
+%AI9_Flatten: 1
+%AI12_CMSettings: 00.MS
+%AI7_Thumbnail: 128 128 8
+%%BeginData: 2039 Hex Bytes
+%0000330000660000990000CC0033000033330033660033990033CC0033FF
+%0066000066330066660066990066CC0066FF009900009933009966009999
+%0099CC0099FF00CC0000CC3300CC6600CC9900CCCC00CCFF00FF3300FF66
+%00FF9900FFCC3300003300333300663300993300CC3300FF333300333333
+%3333663333993333CC3333FF3366003366333366663366993366CC3366FF
+%3399003399333399663399993399CC3399FF33CC0033CC3333CC6633CC99
+%33CCCC33CCFF33FF0033FF3333FF6633FF9933FFCC33FFFF660000660033
+%6600666600996600CC6600FF6633006633336633666633996633CC6633FF
+%6666006666336666666666996666CC6666FF669900669933669966669999
+%6699CC6699FF66CC0066CC3366CC6666CC9966CCCC66CCFF66FF0066FF33
+%66FF6666FF9966FFCC66FFFF9900009900339900669900999900CC9900FF
+%9933009933339933669933999933CC9933FF996600996633996666996699
+%9966CC9966FF9999009999339999669999999999CC9999FF99CC0099CC33
+%99CC6699CC9999CCCC99CCFF99FF0099FF3399FF6699FF9999FFCC99FFFF
+%CC0000CC0033CC0066CC0099CC00CCCC00FFCC3300CC3333CC3366CC3399
+%CC33CCCC33FFCC6600CC6633CC6666CC6699CC66CCCC66FFCC9900CC9933
+%CC9966CC9999CC99CCCC99FFCCCC00CCCC33CCCC66CCCC99CCCCCCCCCCFF
+%CCFF00CCFF33CCFF66CCFF99CCFFCCCCFFFFFF0033FF0066FF0099FF00CC
+%FF3300FF3333FF3366FF3399FF33CCFF33FFFF6600FF6633FF6666FF6699
+%FF66CCFF66FFFF9900FF9933FF9966FF9999FF99CCFF99FFFFCC00FFCC33
+%FFCC66FFCC99FFCCCCFFCCFFFFFF33FFFF66FFFF99FFFFCC110000001100
+%000011111111220000002200000022222222440000004400000044444444
+%550000005500000055555555770000007700000077777777880000008800
+%000088888888AA000000AA000000AAAAAAAABB000000BB000000BBBBBBBB
+%DD000000DD000000DDDDDDDDEE000000EE000000EEEEEEEE0000000000FF
+%00FF0000FFFFFF0000FF00FFFFFF00FFFFFF
+%524C45FDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFF
+%FDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFF
+%FDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFF
+%FDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFF
+%FDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFF
+%FDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFF
+%FDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFDFCFFFFFFFFFF
+%%EndData
+%%EndComments
+%%BeginProlog
+%%BeginResource: procset Adobe_level2_AI5 1.2 0
+%%Title: (Adobe Illustrator (R) Version 5.0 Level 2 Emulation)
+%%Version: 1.2 0
+%%CreationDate: (04/10/93) ()
+%%Copyright: ((C) 1987-1996 Adobe Systems Incorporated All Rights Reserved)
+userdict /Adobe_level2_AI5 26 dict dup begin
+	put
+	/packedarray where not
+	{
+		userdict begin
+		/packedarray
+		{
+			array astore readonly
+		} bind def
+		/setpacking /pop load def
+		/currentpacking false def
+	 end
+		0
+	} if
+	pop
+	userdict /defaultpacking currentpacking put true setpacking
+	/initialize
+	{
+		Adobe_level2_AI5 begin
+	} bind def
+	/terminate
+	{
+		currentdict Adobe_level2_AI5 eq
+		{
+		 end
+		} if
+	} bind def
+	mark
+	/setcustomcolor where not
+	{
+		/findcmykcustomcolor
+		{
+			(AI8_CMYK_CustomColor)
+			6 packedarray
+		} bind def
+		/findrgbcustomcolor
+		{
+			(AI8_RGB_CustomColor)
+			5 packedarray
+		} bind def
+		/setcustomcolor
+		{
+			exch 
+			aload pop dup
+			(AI8_CMYK_CustomColor) eq
+			{
+				pop pop
+				4
+				{
+					4 index mul
+					4 1 roll
+				} repeat
+				5 -1 roll pop
+				setcmykcolor
+			}
+			{
+				dup (AI8_RGB_CustomColor) eq
+				{
+					pop pop
+					3
+					{
+						1 exch sub
+						3 index mul 
+						1 exch sub
+						3 1 roll
+					} repeat
+					4 -1 roll pop
+					setrgbcolor
+				}
+				{
+					pop
+					4
+					{
+						4 index mul 4 1 roll
+					} repeat
+					5 -1 roll pop
+					setcmykcolor
+				} ifelse
+			} ifelse
+		}
+		def
+	} if
+	/setAIseparationgray
+	{
+		false setoverprint
+		0 setgray
+		/setseparationgray where{
+			pop setseparationgray
+		}{
+			/setcolorspace where{
+				pop
+				[/Separation (All) /DeviceCMYK {dup dup dup}] setcolorspace
+				1 exch sub setcolor
+			}{
+				setgray
+			}ifelse
+		}ifelse
+	} def
+	
+	/gt38? mark {version cvr cvx exec} stopped {cleartomark true} {38 gt exch pop} ifelse def
+	userdict /deviceDPI 72 0 matrix defaultmatrix dtransform dup mul exch dup mul add sqrt put
+	userdict /level2?
+	systemdict /languagelevel known dup
+	{
+		pop systemdict /languagelevel get 2 ge
+	} if
+	put
+/level2ScreenFreq
+{
+ begin
+		60
+		HalftoneType 1 eq
+		{
+			pop Frequency
+		} if
+		HalftoneType 2 eq
+		{
+			pop GrayFrequency
+		} if
+		HalftoneType 5 eq
+		{
+			pop Default level2ScreenFreq
+		} if
+ end
+} bind def
+userdict /currentScreenFreq  
+	level2? {currenthalftone level2ScreenFreq} {currentscreen pop pop} ifelse put
+level2? not
+	{
+		/setcmykcolor where not
+		{
+			/setcmykcolor
+			{
+				exch .11 mul add exch .59 mul add exch .3 mul add
+				1 exch sub setgray
+			} def
+		} if
+		/currentcmykcolor where not
+		{
+			/currentcmykcolor
+			{
+				0 0 0 1 currentgray sub
+			} def
+		} if
+		/setoverprint where not
+		{
+			/setoverprint /pop load def
+		} if
+		/selectfont where not
+		{
+			/selectfont
+			{
+				exch findfont exch
+				dup type /arraytype eq
+				{
+					makefont
+				}
+				{
+					scalefont
+				} ifelse
+				setfont
+			} bind def
+		} if
+		/cshow where not
+		{
+			/cshow
+			{
+				[
+				0 0 5 -1 roll aload pop
+				] cvx bind forall
+			} bind def
+		} if
+	} if
+	cleartomark
+	/anyColor?
+	{
+		add add add 0 ne
+	} bind def
+	/testColor
+	{
+		gsave
+		setcmykcolor currentcmykcolor
+		grestore
+	} bind def
+	/testCMYKColorThrough
+	{
+		testColor anyColor?
+	} bind def
+	userdict /composite?
+	1 0 0 0 testCMYKColorThrough
+	0 1 0 0 testCMYKColorThrough
+	0 0 1 0 testCMYKColorThrough
+	0 0 0 1 testCMYKColorThrough
+	and and and
+	put
+	composite? not
+	{
+		userdict begin
+		gsave
+		/cyan? 1 0 0 0 testCMYKColorThrough def
+		/magenta? 0 1 0 0 testCMYKColorThrough def
+		/yellow? 0 0 1 0 testCMYKColorThrough def
+		/black? 0 0 0 1 testCMYKColorThrough def
+		grestore
+		/isCMYKSep? cyan? magenta? yellow? black? or or or def
+		/customColor? isCMYKSep? not def
+	 end
+	} if
+ end defaultpacking setpacking
+%%EndResource
+%%BeginProcSet: Adobe_ColorImage_AI6 1.3 0
+userdict /Adobe_ColorImage_AI6 known not
+{
+	userdict /Adobe_ColorImage_AI6 53 dict put 
+} if
+userdict /Adobe_ColorImage_AI6 get begin
+/initialize { 
+	Adobe_ColorImage_AI6 begin
+	Adobe_ColorImage_AI6 {
+		dup type /arraytype eq {
+			dup xcheck {
+				bind
+			} if
+		} if
+		pop pop
+	} forall
+} def
+/terminate { end } def
+currentdict /Adobe_ColorImage_AI6_Vars known not {
+	/Adobe_ColorImage_AI6_Vars 41 dict def
+} if
+Adobe_ColorImage_AI6_Vars begin
+	/plateindex -1 def
+	/_newproc null def
+	/_proc1 null def
+	/_proc2 null def
+	/sourcearray 4 array def
+	/_ptispace null def
+	/_ptiname null def
+	/_pti0 0 def
+	/_pti1 0 def
+	/_ptiproc null def
+	/_ptiscale 0 def
+	/_pticomps 0 def
+	/_ptibuf 0 string def
+	/_gtigray 0 def
+	/_cticmyk null def
+	/_rtirgb null def
+	/XIEnable true def
+	/XIType 0 def
+	/XIEncoding 0 def
+	/XICompression 0 def
+	/XIChannelCount 0 def
+	/XIBitsPerPixel 0 def
+	/XIImageHeight 0 def
+	/XIImageWidth 0 def
+	/XIImageMatrix null def
+	/XIRowBytes 0 def
+	/XIFile null def
+	/XIBuffer1 null def
+	/XIBuffer2 null def
+	/XIBuffer3 null def
+	/XIDataProc null def
+	/XIColorSpace /DeviceGray def
+	/XIColorValues 0 def
+	/XIPlateList false def
+end
+/ci6colorimage /colorimage where {/colorimage get}{null} ifelse def
+/ci6image systemdict /image get def
+/ci6curtransfer systemdict /currenttransfer get def
+/ci6curoverprint /currentoverprint where {/currentoverprint get}{{_of}} ifelse def
+/ci6foureq {
+	4 index ne {
+		pop pop pop false
+	}{
+		4 index ne {
+			pop pop false
+		}{
+			4 index ne {
+				pop false
+			}{
+				4 index eq
+			} ifelse
+		} ifelse
+	} ifelse
+} def
+/ci6testplate {
+	Adobe_ColorImage_AI6_Vars begin
+		/plateindex -1 def
+		/setcmykcolor where {
+			pop
+			gsave
+			1 0 0 0 setcmykcolor systemdict /currentgray get exec 1 exch sub
+			0 1 0 0 setcmykcolor systemdict /currentgray get exec 1 exch sub
+			0 0 1 0 setcmykcolor systemdict /currentgray get exec 1 exch sub
+			0 0 0 1 setcmykcolor systemdict /currentgray get exec 1 exch sub
+			grestore
+			1 0 0 0 ci6foureq { 
+				/plateindex 0 def
+			}{
+				0 1 0 0 ci6foureq { 
+					/plateindex 1 def
+				}{
+					0 0 1 0 ci6foureq {
+						/plateindex 2 def
+					}{
+						0 0 0 1 ci6foureq { 
+							/plateindex 3 def
+						}{
+							0 0 0 0 ci6foureq {
+								/plateindex 5 def
+							} if
+						} ifelse
+					} ifelse
+				} ifelse
+			} ifelse
+			pop pop pop pop
+		} if
+		plateindex
+ end
+} def
+/ci6concatprocs {
+	/packedarray where {
+		pop dup type /packedarraytype eq 2 index type
+		/packedarraytype eq or
+	}{
+		false
+	} ifelse
+	{
+		/_proc2 exch cvlit def
+		/_proc1 exch cvlit def
+		_proc1 aload pop
+		_proc2 aload pop
+		_proc1 length
+		_proc2 length add
+		packedarray cvx
+	}{
+		/_proc2 exch cvlit def
+		/_proc1 exch cvlit def
+		/_newproc _proc1 length _proc2 length add array def
+		_newproc 0 _proc1 putinterval
+		_newproc _proc1 length _proc2 putinterval
+		_newproc cvx
+	} ifelse
+} def
+/ci6istint {
+	type /arraytype eq 
+} def
+/ci6isspot {
+	dup type /arraytype eq {
+		dup length 1 sub get /Separation eq
+	}{
+		pop false
+	} ifelse
+} def
+/ci6spotname {
+	dup ci6isspot {dup length 2 sub get}{pop ()} ifelse
+} def
+/ci6altspace {
+	aload pop pop pop ci6colormake
+} def
+/ci6numcomps {
+	dup /DeviceGray eq {
+		pop 1
+	}{
+		dup /DeviceRGB eq {
+			pop 3
+		}{
+			/DeviceCMYK eq {
+				4
+			}{
+				1
+			} ifelse
+		} ifelse
+	} ifelse
+} def
+/ci6marksplate {
+	dup /DeviceGray eq {
+		pop plateindex 3 eq
+	}{
+		dup /DeviceRGB eq {
+			pop plateindex 5 ne
+		}{
+			dup /DeviceCMYK eq {
+				pop plateindex 5 ne
+			}{
+				dup ci6isspot {
+					/findcmykcustomcolor where {
+						pop
+						dup length 2 sub get
+						0.1 0.1 0.1 0.1 5 -1 roll
+						findcmykcustomcolor 1 setcustomcolor
+						systemdict /currentgray get exec
+						1 ne
+					}{
+						pop plateindex 5 ne
+					} ifelse
+				}{
+					pop plateindex 5 ne
+				} ifelse
+			} ifelse
+		} ifelse
+	} ifelse
+} def
+/ci6colormake {
+	dup ci6numcomps
+	exch 1 index 2 add 1 roll
+	dup 1 eq {pop}{array astore} ifelse
+	exch
+} def
+/ci6colorexpand {
+	dup ci6spotname exch
+	dup ci6istint {
+		ci6altspace
+		exch 4 1 roll
+	}{
+		1 3 1 roll
+	} ifelse
+} def
+/ci6colortint {
+	dup /DeviceGray eq {
+		3 1 roll 1 exch sub mul 1 exch sub exch
+	}{
+		dup /DeviceRGB eq {
+			3 1 roll {1 exch sub 1 index mul 1 exch sub exch} forall pop 3 array astore exch
+		}{
+			dup /DeviceCMYK eq {
+				3 1 roll {1 index mul exch} forall pop 4 array astore exch
+			}{
+				3 1 roll mul exch
+			} ifelse
+		} ifelse
+	} ifelse
+} def
+/ci6colortocmyk {
+	dup /DeviceGray eq {
+		pop 1 exch sub 0 0 0 4 -1 roll 4 array astore
+	}{
+		dup /DeviceRGB eq {
+			pop aload pop _rgbtocmyk 4 array astore
+		}{
+			dup /DeviceCMYK eq {
+				pop
+			}{
+				ci6altspace ci6colortint ci6colortocmyk
+			} ifelse
+		} ifelse
+	} ifelse
+} def
+/ci6makeimagedict {
+	7 dict begin
+		/ImageType 1 def
+		/Decode exch def
+		/DataSource exch def
+		/ImageMatrix exch def
+		/BitsPerComponent exch def
+		/Height exch def
+		/Width exch def
+	currentdict end
+} def
+/ci6stringinvert {
+	0 1 2 index length 1 sub {
+		dup 2 index exch get 255 exch sub 2 index 3 1 roll put
+	} for
+} def
+/ci6stringknockout {
+	0 1 2 index length 1 sub {
+		255 2 index 3 1 roll put
+	} for
+} def
+/ci6stringapply {
+	0 1 4 index length 1 sub {
+		dup
+		4 index exch get
+		3 index 3 1 roll
+		3 index exec
+	} for
+	pop exch pop
+} def
+/ci6walkrgbstring {
+	0 3 index
+	dup length 1 sub 0 3 3 -1 roll {
+		3 getinterval {} forall
+		5 index exec
+		3 index
+	} for
+	
+	 5 {pop} repeat
+} def
+/ci6walkcmykstring
+{
+	0 3 index
+	dup length 1 sub 0 4 3 -1 roll {
+		4 getinterval {} forall
+		
+		6 index exec
+		
+		3 index
+		
+	} for
+	
+	5 { pop } repeat
+	
+} def
+/ci6putrgbtograystr
+{
+	.11 mul exch
+	
+	.59 mul add exch
+	
+	.3 mul add
+	
+	cvi 3 copy put
+	
+	pop 1 add
+} def
+/ci6putcmyktograystr
+{
+	exch .11 mul add
+	
+	exch .59 mul add
+	
+	exch .3 mul add
+	
+	dup 255 gt { pop 255 } if
+	
+	255 exch sub cvi 3 copy put
+	
+	pop 1 add
+} def
+/ci6rgbtograyproc {	
+	Adobe_ColorImage_AI6_Vars begin 
+		sourcearray 0 get exec
+		XIBuffer3
+		dup 3 1 roll 
+		
+		/ci6putrgbtograystr load exch
+		ci6walkrgbstring
+ end
+} def
+/ci6cmyktograyproc {	
+	Adobe_ColorImage_AI6_Vars begin
+		sourcearray 0 get exec
+		XIBuffer3
+		dup 3 1 roll 
+		
+		/ci6putcmyktograystr load exch
+		ci6walkcmykstring
+ end
+} def
+/ci6separatecmykproc {	
+	Adobe_ColorImage_AI6_Vars begin
+		sourcearray 0 get exec
+		
+		XIBuffer3
+		
+		0 2 index
+		
+		plateindex 4 2 index length 1 sub {
+			get 255 exch sub
+			
+			3 copy put pop 1 add
+			
+			2 index
+		} for
+		pop pop exch pop
+ end
+} def
+	
+/ci6compositeimage {
+	dup 1 eq {
+		pop pop image
+	}{
+		/ci6colorimage load null ne {
+			ci6colorimage
+		}{
+			3 1 roll pop
+			sourcearray 0 3 -1 roll put
+			3 eq {/ci6rgbtograyproc}{/ci6cmyktograyproc} ifelse load
+			image
+		} ifelse
+	} ifelse
+} def
+/ci6knockoutimage {
+	gsave
+	0 ci6curtransfer exec 1 ci6curtransfer exec
+	eq {
+		0 ci6curtransfer exec 0.5 lt
+	}{
+		0 ci6curtransfer exec 1 ci6curtransfer exec gt
+	} ifelse
+	{{pop 0}}{{pop 1}} ifelse
+	systemdict /settransfer get exec
+	ci6compositeimage
+	grestore
+} def
+/ci6drawimage {
+	ci6testplate -1 eq {
+		pop ci6compositeimage
+	}{
+		dup type /arraytype eq {
+			dup length plateindex gt {plateindex get}{pop false} ifelse
+		}{
+			{
+				true
+			}{
+				dup 1 eq {plateindex 3 eq}{plateindex 3 le} ifelse
+			} ifelse
+		} ifelse
+		{
+			dup 1 eq {
+				pop pop ci6image
+			}{
+				dup 3 eq {
+					ci6compositeimage
+				}{
+					pop pop
+					sourcearray 0 3 -1 roll put
+					/ci6separatecmykproc load
+					ci6image
+				} ifelse
+			} ifelse
+		}{
+			ci6curoverprint {
+				7 {pop} repeat
+			}{
+				ci6knockoutimage
+			} ifelse
+		} ifelse
+	} ifelse
+} def
+/ci6proctintimage {
+	/_ptispace exch store /_ptiname exch store /_pti1 exch store /_pti0 exch store /_ptiproc exch store
+	/_pticomps _ptispace ci6numcomps store
+	/_ptiscale _pti1 _pti0 sub store
+	level2? {
+		_ptiname length 0 gt version cvr 2012 ge and {
+			[/Separation _ptiname _ptispace {_ptiproc}] setcolorspace
+			[_pti0 _pti1] ci6makeimagedict ci6image
+		}{
+			[/Indexed _ptispace 255 {255 div _ptiscale mul _pti0 add _ptiproc}] setcolorspace
+			[0 255] ci6makeimagedict ci6image
+		} ifelse
+	}{
+		_pticomps 1 eq {
+			{
+				dup
+				{
+					255 div _ptiscale mul _pti0 add _ptiproc 255 mul cvi put
+				} ci6stringapply
+			} ci6concatprocs ci6image
+		}{
+			{
+				dup length _pticomps mul dup _ptibuf length ne {/_ptibuf exch string store}{pop} ifelse
+				_ptibuf {
+					exch _pticomps mul exch 255 div _ptiscale mul _pti0 add _ptiproc
+					_pticomps 2 add -2 roll
+					_pticomps 1 sub -1 0 {
+						1 index add 2 index exch
+						5 -1 roll
+						255 mul cvi put
+					} for
+					pop pop
+				} ci6stringapply
+			} ci6concatprocs false _pticomps
+			/ci6colorimage load null eq {7 {pop} repeat}{ci6colorimage} ifelse
+		} ifelse
+	} ifelse
+} def
+/ci6graytintimage {
+	/_gtigray 5 -1 roll store
+	{1 _gtigray sub mul 1 exch sub} 4 1 roll
+	/DeviceGray ci6proctintimage
+} def
+/ci6cmyktintimage {
+	/_cticmyk 5 -1 roll store
+	{_cticmyk {1 index mul exch} forall pop} 4 1 roll
+	/DeviceCMYK ci6proctintimage
+} def
+/ci6rgbtintimage {
+	/_rtirgb 5 -1 roll store
+	{_rtirgb {1 exch sub 1 index mul 1 exch sub exch} forall pop} 4 1 roll
+	/DeviceRGB ci6proctintimage
+} def
+/ci6tintimage {
+	ci6testplate -1 eq {
+		ci6colorexpand
+		3 -1 roll 5 -1 roll {0}{0 exch} ifelse 4 2 roll
+		dup /DeviceGray eq {
+			pop ci6graytintimage
+		}{
+			dup /DeviceRGB eq {
+				pop ci6rgbtintimage
+			}{
+				pop ci6cmyktintimage
+			} ifelse
+		} ifelse
+	}{
+		dup ci6marksplate {
+			plateindex 5 lt {
+				ci6colortocmyk plateindex get
+				dup 0 eq ci6curoverprint and {
+					7 {pop} repeat
+				}{
+					1 exch sub
+					exch {1 0}{0 1} ifelse () ci6graytintimage
+				} ifelse
+			}{
+				pop exch {0}{0 exch} ifelse 0 3 1 roll () ci6graytintimage
+			} ifelse
+		}{
+			ci6curoverprint {
+				8 {pop} repeat
+			}{
+				pop pop pop
+				{pop 1} 0 1 () /DeviceGray ci6proctintimage
+			} ifelse
+		} ifelse
+	} ifelse
+} def
+/XINullImage {
+} def
+/XIImageMask {
+	XIImageWidth XIImageHeight false
+	[XIImageWidth 0 0 XIImageHeight neg 0 0]
+	/XIDataProc load
+	imagemask
+} def
+/XIImageTint {
+	XIImageWidth XIImageHeight XIBitsPerPixel
+	[XIImageWidth 0 0 XIImageHeight neg 0 0]
+	/XIDataProc load
+	XIType 3 eq XIColorValues XIColorSpace ci6tintimage
+} def
+/XIImage {
+	XIImageWidth XIImageHeight XIBitsPerPixel
+	[XIImageWidth 0 0 XIImageHeight neg 0 0]
+	/XIDataProc load
+	false XIChannelCount XIPlateList ci6drawimage
+} def
+/XG {
+	pop pop
+} def
+/XF {
+	13 {pop} repeat
+} def
+/Xh {
+	Adobe_ColorImage_AI6_Vars begin
+		gsave
+		/XIType exch def
+		/XIImageHeight exch def
+		/XIImageWidth exch def
+		/XIImageMatrix exch def
+		0 0 moveto
+		XIImageMatrix concat
+		XIImageWidth XIImageHeight scale
+		
+		/_lp /null ddef
+		_fc
+		/_lp /imagemask ddef
+ end
+} def
+/XH {
+	Adobe_ColorImage_AI6_Vars begin
+		grestore
+ end
+} def
+/XIEnable {
+	Adobe_ColorImage_AI6_Vars /XIEnable 3 -1 roll put
+} def
+/XC {
+	Adobe_ColorImage_AI6_Vars begin
+		ci6colormake
+		/XIColorSpace exch def
+		/XIColorValues exch def
+ end
+} def
+/XIPlates {
+	Adobe_ColorImage_AI6_Vars begin
+		/XIPlateList exch def
+ end
+} def
+/XI
+{
+	Adobe_ColorImage_AI6_Vars begin
+		gsave
+		/XIType exch def
+		cvi dup
+		256 idiv /XICompression exch store
+		256 mod /XIEncoding exch store
+		pop pop
+		/XIChannelCount exch def
+		/XIBitsPerPixel exch def
+		/XIImageHeight exch def
+		/XIImageWidth exch def
+		pop pop pop pop
+		/XIImageMatrix exch def
+		XIBitsPerPixel 1 eq {
+			XIImageWidth 8 div ceiling cvi
+		}{
+			XIImageWidth XIChannelCount mul
+		} ifelse
+		/XIRowBytes exch def
+		XIEnable {
+			/XIBuffer3 XIImageWidth string def
+			XICompression 0 eq {
+				/XIBuffer1 XIRowBytes string def
+				XIEncoding 0 eq {
+					{currentfile XIBuffer1 readhexstring pop}
+				}{
+					{currentfile XIBuffer1 readstring pop}
+				} ifelse
+			}{
+				/XIBuffer1 256 string def
+				/XIBuffer2 XIRowBytes string def
+				{currentfile XIBuffer1 readline pop (%) anchorsearch {pop} if}
+				/ASCII85Decode filter /DCTDecode filter
+				/XIFile exch def
+				{XIFile XIBuffer2 readstring pop}
+			} ifelse
+			/XIDataProc exch def
+			
+			XIType 1 ne {
+				0 setgray
+			} if
+			XIType 1 eq {
+				XIImageMask
+			}{
+				XIType 2 eq XIType 3 eq or {
+					XIImageTint
+				}{
+					XIImage
+				} ifelse
+			} ifelse
+		}{
+			XINullImage
+		} ifelse
+		/XIPlateList false def
+		grestore
+ end
+} def
+end
+%%EndProcSet
+%%BeginResource: procset Adobe_Illustrator_AI5 1.3 0
+%%Title: (Adobe Illustrator (R) Version 8.0 Full Prolog)
+%%Version: 1.3 0
+%%CreationDate: (3/7/1994) ()
+%%Copyright: ((C) 1987-1998 Adobe Systems Incorporated All Rights Reserved)
+currentpacking true setpacking
+userdict /Adobe_Illustrator_AI5_vars 112 dict dup begin
+put
+/_?cmyk false def
+/_eo false def
+/_lp /none def
+/_pf
+{
+} def
+/_ps
+{
+} def
+/_psf
+{
+} def
+/_pss
+{
+} def
+/_pjsf
+{
+} def
+/_pjss
+{
+} def
+/_pola 0 def
+/_doClip 0 def
+/cf currentflat def
+/_lineorientation 0 def
+/_charorientation 0 def
+/_yokoorientation 0 def
+/_tm matrix def
+/_renderStart
+[
+/e0 /r0 /a0 /o0 /e1 /r1 /a1 /i0
+] def
+/_renderEnd
+[
+null null null null /i1 /i1 /i1 /i1
+] def
+/_render -1 def
+/_shift [0 0] def
+/_ax 0 def
+/_ay 0 def
+/_cx 0 def
+/_cy 0 def
+/_leading
+[
+0 0
+] def
+/_ctm matrix def
+/_mtx matrix def
+/_sp 16#020 def
+/_hyphen (-) def
+/_fontSize 0 def
+/_fontAscent 0 def
+/_fontDescent 0 def
+/_fontHeight 0 def
+/_fontRotateAdjust 0 def
+/Ss 256 string def
+Ss 0 (fonts/) putinterval
+/_cnt 0 def
+/_scale [1 1] def
+/_nativeEncoding 0 def
+/_useNativeEncoding 0 def
+/_tempEncode 0 def
+/_pntr 0 def
+/_tDict 2 dict def
+/_hfname 100 string def
+/_hffound false def
+/Tx
+{
+} def
+/Tj
+{
+} def
+/CRender
+{
+} def
+/_AI3_savepage
+{
+} def
+/_gf null def
+/_cf 4 array def
+/_rgbf 3 array def
+/_if null def
+/_of false def
+/_fc
+{
+} def
+/_gs null def
+/_cs 4 array def
+/_rgbs 3 array def
+/_is null def
+/_os false def
+/_sc
+{
+} def
+/_pd 1 dict def
+/_ed 15 dict def
+/_pm matrix def
+/_fm null def
+/_fd null def
+/_fdd null def
+/_sm null def
+/_sd null def
+/_sdd null def
+/_i null def
+/_lobyte 0 def
+/_hibyte 0 def
+/_cproc null def
+/_cscript 0 def
+/_hvax 0 def
+/_hvay 0 def
+/_hvwb 0 def
+/_hvcx 0 def
+/_hvcy 0 def
+/_bitfont null def
+/_bitlobyte 0 def
+/_bithibyte 0 def
+/_bitkey null def
+/_bitdata null def
+/_bitindex 0 def
+/discardSave null def
+/buffer 256 string def
+/beginString null def
+/endString null def
+/endStringLength null def
+/layerCnt 1 def
+/layerCount 1 def
+/perCent (%) 0 get def
+/perCentSeen? false def
+/newBuff null def
+/newBuffButFirst null def
+/newBuffLast null def
+/clipForward? false def
+end
+userdict /Adobe_Illustrator_AI5 known not {
+	userdict /Adobe_Illustrator_AI5 100 dict put
+} if
+userdict /Adobe_Illustrator_AI5 get begin
+/initialize
+{
+	Adobe_Illustrator_AI5 dup begin
+	Adobe_Illustrator_AI5_vars begin
+	/_aicmykps where {pop /_?cmyk _aicmykps def}if
+	discardDict
+	{
+		bind pop pop
+	} forall
+	dup /nc get begin
+	{
+		dup xcheck 1 index type /operatortype ne and
+		{
+			bind
+		} if
+		pop pop
+	} forall
+ end
+	newpath
+} def
+/terminate
+{
+ end
+ end
+} def
+/_
+null def
+/ddef
+{
+	Adobe_Illustrator_AI5_vars 3 1 roll put
+} def
+/xput
+{
+	dup load dup length exch maxlength eq
+	{
+		dup dup load dup
+		length 2 mul dict copy def
+	} if
+	load begin
+	def
+ end
+} def
+/npop
+{
+	{
+		pop
+	} repeat
+} def
+/hswj
+{
+	dup stringwidth 3 2 roll
+	{
+		_hvwb eq { exch _hvcx add exch _hvcy add } if
+		exch _hvax add exch _hvay add
+	} cforall
+} def
+/vswj
+{
+	0 0 3 -1 roll
+	{
+		dup 255 le
+		_charorientation 1 eq
+		and
+		{
+			dup cstring stringwidth 5 2 roll
+			_hvwb eq { exch _hvcy sub exch _hvcx sub } if
+			exch _hvay sub exch _hvax sub
+			4 -1 roll sub exch
+			3 -1 roll sub exch
+		}
+		{
+			_hvwb eq { exch _hvcy sub exch _hvcx sub } if
+			exch _hvay sub exch _hvax sub
+			_fontHeight sub
+		} ifelse
+	} cforall
+} def
+/swj
+{
+	6 1 roll
+	/_hvay exch ddef
+	/_hvax exch ddef
+	/_hvwb exch ddef
+	/_hvcy exch ddef
+	/_hvcx exch ddef
+	_lineorientation 0 eq { hswj } { vswj } ifelse
+} def
+/sw
+{
+	0 0 0 6 3 roll swj
+} def
+/vjss
+{
+	4 1 roll
+	{
+		dup cstring
+		dup length 1 eq
+		_charorientation 1 eq
+		and
+		{
+			-90 rotate
+			currentpoint
+			_fontRotateAdjust add
+			moveto
+			gsave
+			false charpath currentpoint
+			5 index setmatrix stroke
+			grestore
+			_fontRotateAdjust sub
+			moveto
+			_sp eq
+			{
+				5 index 5 index rmoveto
+			} if
+			2 copy rmoveto
+			90 rotate
+		}
+		{
+			currentpoint
+			_fontHeight sub
+			5 index sub
+			3 index _sp eq
+			{
+				9 index sub
+			} if
+	
+			currentpoint
+			exch 4 index stringwidth pop 2 div sub
+			exch _fontAscent sub
+			moveto
+	
+			gsave
+			2 index false charpath
+			6 index setmatrix stroke
+			grestore
+	
+			moveto pop pop
+		} ifelse
+	} cforall
+	6 npop
+} def
+/hjss
+{
+	4 1 roll
+	{
+		dup cstring
+		gsave
+		false charpath currentpoint
+		5 index setmatrix stroke
+		grestore
+		moveto
+		_sp eq
+		{
+			5 index 5 index rmoveto
+		} if
+		2 copy rmoveto
+	} cforall
+	6 npop
+} def
+/jss
+{
+	_lineorientation 0 eq { hjss } { vjss } ifelse
+} def
+/ss
+{
+	0 0 0 7 3 roll jss
+} def
+/vjsp
+{
+	4 1 roll
+	{
+		dup cstring
+		dup length 1 eq
+		_charorientation 1 eq
+		and
+		{
+			-90 rotate
+			currentpoint
+			_fontRotateAdjust add
+			moveto
+			false charpath
+            currentpoint
+			_fontRotateAdjust sub
+			moveto
+			_sp eq
+			{
+				5 index 5 index rmoveto
+			} if
+			2 copy rmoveto
+			90 rotate
+		}
+		{
+			currentpoint
+			_fontHeight sub
+			5 index sub
+			3 index _sp eq
+			{
+				9 index sub
+			} if
+	
+			currentpoint
+			exch 4 index stringwidth pop 2 div sub
+			exch _fontAscent sub
+			moveto
+	
+			2 index false charpath
+	
+			moveto pop pop
+		} ifelse
+	} cforall
+	6 npop
+} def
+/hjsp
+{
+    4 1 roll
+    {
+        dup cstring
+        false charpath
+        _sp eq
+        {
+            5 index 5 index rmoveto
+        } if
+        2 copy rmoveto
+    } cforall
+    6 npop
+} def
+/jsp
+{
+	matrix currentmatrix
+    _lineorientation 0 eq {hjsp} {vjsp} ifelse
+} def
+/sp
+{
+    matrix currentmatrix
+    0 0 0 7 3 roll
+    _lineorientation 0 eq {hjsp} {vjsp} ifelse
+} def
+/pl
+{
+	transform
+	0.25 sub round 0.25 add exch
+	0.25 sub round 0.25 add exch
+	itransform
+} def
+/setstrokeadjust where
+{
+	pop true setstrokeadjust
+	/c
+	{
+		curveto
+	} def
+	/C
+	/c load def
+	/v
+	{
+		currentpoint 6 2 roll curveto
+	} def
+	/V
+	/v load def
+	/y
+	{
+		2 copy curveto
+	} def
+	/Y
+	/y load def
+	/l
+	{
+		lineto
+	} def
+	/L
+	/l load def
+	/m
+	{
+		moveto
+	} def
+}
+{
+	/c
+	{
+		pl curveto
+	} def
+	/C
+	/c load def
+	/v
+	{
+		currentpoint 6 2 roll pl curveto
+	} def
+	/V
+	/v load def
+	/y
+	{
+		pl 2 copy curveto
+	} def
+	/Y
+	/y load def
+	/l
+	{
+		pl lineto
+	} def
+	/L
+	/l load def
+	/m
+	{
+		pl moveto
+	} def
+} ifelse
+/d
+{
+	setdash
+} def
+/cf
+{
+} def
+/i
+{
+	dup 0 eq
+	{
+		pop cf
+	} if
+	setflat
+} def
+/j
+{
+	setlinejoin
+} def
+/J
+{
+	setlinecap
+} def
+/M
+{
+	setmiterlimit
+} def
+/w
+{
+	setlinewidth
+} def
+/XR
+{
+	0 ne
+	/_eo exch ddef
+} def
+/H
+{
+} def
+/h
+{
+	closepath
+} def
+/N
+{
+	_pola 0 eq
+	{
+		_doClip 1 eq
+		{
+			_eo {eoclip} {clip} ifelse /_doClip 0 ddef
+		} if
+		newpath
+	}
+	{
+		/CRender
+		{
+			N
+		} ddef
+	} ifelse
+} def
+/n
+{
+	N
+} def
+/F
+{
+	_pola 0 eq
+	{
+		_doClip 1 eq
+		{
+			gsave _pf grestore _eo {eoclip} {clip} ifelse newpath /_lp /none ddef _fc
+			/_doClip 0 ddef
+		}
+		{
+			_pf
+		} ifelse
+	}
+	{
+		/CRender
+		{
+			F
+		} ddef
+	} ifelse
+} def
+/f
+{
+	closepath
+	F
+} def
+/S
+{
+	_pola 0 eq
+	{
+		_doClip 1 eq
+		{
+			gsave _ps grestore _eo {eoclip} {clip} ifelse newpath /_lp /none ddef _sc
+			/_doClip 0 ddef
+		}
+		{
+			_ps
+		} ifelse
+	}
+	{
+		/CRender
+		{
+			S
+		} ddef
+	} ifelse
+} def
+/s
+{
+	closepath
+	S
+} def
+/B
+{
+	_pola 0 eq
+	{
+		_doClip 1 eq
+		gsave F grestore
+		{
+			gsave S grestore _eo {eoclip} {clip} ifelse newpath /_lp /none ddef _sc
+			/_doClip 0 ddef
+		}
+		{
+			S
+		} ifelse
+	}
+	{
+		/CRender
+		{
+			B
+		} ddef
+	} ifelse
+} def
+/b
+{
+	closepath
+	B
+} def
+/W
+{
+	/_doClip 1 ddef
+} def
+/*
+{
+	count 0 ne
+	{
+		dup type /stringtype eq
+		{
+			pop
+		} if
+	} if
+	newpath
+} def
+/u
+{
+} def
+/U
+{
+} def
+/q
+{
+	_pola 0 eq
+	{
+		gsave
+	} if
+} def
+/Q
+{
+	_pola 0 eq
+	{
+		grestore
+	} if
+} def
+/*u
+{
+	_pola 1 add /_pola exch ddef
+} def
+/*U
+{
+	_pola 1 sub /_pola exch ddef
+	_pola 0 eq
+	{
+		CRender
+	} if
+} def
+/D
+{
+	pop
+} def
+/*w
+{
+} def
+/*W
+{
+} def
+/`
+{
+	/_i save ddef
+	clipForward?
+	{
+		nulldevice
+	} if
+	6 1 roll 4 npop
+	concat pop
+	userdict begin
+	/showpage
+	{
+	} def
+	0 setgray
+	0 setlinecap
+	1 setlinewidth
+	0 setlinejoin
+	10 setmiterlimit
+	[] 0 setdash
+	/setstrokeadjust where {pop false setstrokeadjust} if
+	newpath
+	0 setgray
+	false setoverprint
+} def
+/~
+{
+ end
+	_i restore
+} def
+/_rgbtocmyk
+{
+	3
+	{
+		1 exch sub 3 1 roll
+	} repeat
+	3 copy 1 4 1 roll
+	3
+	{
+		3 index 2 copy gt
+		{
+			exch
+		} if
+		pop 4 1 roll
+	} repeat
+	pop pop pop
+	4 1 roll
+	3
+	{
+		3 index sub
+		3 1 roll
+	} repeat
+	4 -1 roll
+} def
+/setrgbfill
+{
+	_rgbf astore pop
+	/_fc
+	{
+		_lp /fill ne
+		{
+			_of setoverprint
+			_rgbf aload pop setrgbcolor
+			/_lp /fill ddef
+		} if
+	} ddef
+	/_pf
+	{
+		_fc
+		_eo {eofill} {fill} ifelse
+	} ddef
+	/_psf
+	{
+		_fc
+		hvashow
+	} ddef
+	/_pjsf
+	{
+		_fc
+		hvawidthshow
+	} ddef
+	/_lp /none ddef
+} def
+/setrgbstroke
+{
+	_rgbs astore pop
+	/_sc
+	{
+		_lp /stroke ne
+		{
+			_os setoverprint
+			_rgbs aload pop setrgbcolor
+			/_lp /stroke ddef
+		} if
+	} ddef
+	/_ps
+	{
+		_sc
+		stroke
+	} ddef
+	/_pss
+	{
+		_sc
+		ss
+	} ddef
+	/_pjss
+	{
+		_sc
+		jss
+	} ddef
+	/_lp /none ddef
+} def
+/O
+{
+	0 ne
+	/_of exch ddef
+	/_lp /none ddef
+} def
+/R
+{
+	0 ne
+	/_os exch ddef
+	/_lp /none ddef
+} def
+/g
+{
+	/_gf exch ddef
+	/_fc
+	{
+		_lp /fill ne
+		{
+			_of setoverprint
+			_gf setgray
+			/_lp /fill ddef
+		} if
+	} ddef
+	/_pf
+	{
+		_fc
+		_eo {eofill} {fill} ifelse
+	} ddef
+	/_psf
+	{
+		_fc
+		hvashow
+	} ddef
+	/_pjsf
+	{
+		_fc
+		hvawidthshow
+	} ddef
+	/_lp /none ddef
+} def
+/G
+{
+	/_gs exch ddef
+	/_sc
+	{
+		_lp /stroke ne
+		{
+			_os setoverprint
+			_gs setgray
+			/_lp /stroke ddef
+		} if
+	} ddef
+	/_ps
+	{
+		_sc
+		stroke
+	} ddef
+	/_pss
+	{
+		_sc
+		ss
+	} ddef
+	/_pjss
+	{
+		_sc
+		jss
+	} ddef
+	/_lp /none ddef
+} def
+/k
+{
+	_cf astore pop
+	/_fc
+	{
+		_lp /fill ne
+		{
+			_of setoverprint
+			_cf aload pop setcmykcolor
+			/_lp /fill ddef
+		} if
+	} ddef
+	/_pf
+	{
+		_fc
+		_eo {eofill} {fill} ifelse
+	} ddef
+	/_psf
+	{
+		_fc
+		hvashow
+	} ddef
+	/_pjsf
+	{
+		_fc
+		hvawidthshow
+	} ddef
+	/_lp /none ddef
+} def
+/K
+{
+	_cs astore pop
+	/_sc
+	{
+		_lp /stroke ne
+		{
+			_os setoverprint
+			_cs aload pop setcmykcolor
+			/_lp /stroke ddef
+		} if
+	} ddef
+	/_ps
+	{
+		_sc
+		stroke
+	} ddef
+	/_pss
+	{
+		_sc
+		ss
+	} ddef
+	/_pjss
+	{
+		_sc
+		jss
+	} ddef
+	/_lp /none ddef
+} def
+/Xa
+{
+	_?cmyk {
+		3 npop k
+	}{
+		setrgbfill 4 npop
+	} ifelse
+} def
+/XA
+{
+	_?cmyk {
+		3 npop K
+	}{
+		setrgbstroke 4 npop
+	} ifelse
+} def
+/Xs
+{
+	/_gf exch ddef
+	5 npop
+	/_fc
+	{
+		_lp /fill ne
+		{
+			_of setoverprint
+			_gf setAIseparationgray
+			/_lp /fill ddef
+		} if
+	} ddef
+	/_pf
+	{
+		_fc
+		_eo {eofill} {fill} ifelse
+	} ddef
+	/_psf
+	{
+		_fc
+		hvashow
+	} ddef
+	/_pjsf
+	{
+		_fc
+		hvawidthshow
+	} ddef
+	/_lp /none ddef
+} def
+/XS
+{
+	/_gs exch ddef
+	5 npop
+	/_sc
+	{
+		_lp /stroke ne
+		{
+			_os setoverprint
+			_gs setAIseparationgray
+			/_lp /stroke ddef
+		} if
+	} ddef
+	/_ps
+	{
+		_sc
+		stroke
+	} ddef
+	/_pss
+	{
+		_sc
+		ss
+	} ddef
+	/_pjss
+	{
+		_sc
+		jss
+	} ddef
+	/_lp /none ddef
+} def
+/Xx
+{
+	exch
+	/_gf exch ddef
+	0 eq {
+		findcmykcustomcolor
+	}{
+		_?cmyk {true}{/findrgbcustomcolor where{pop false}{true}ifelse}ifelse
+		{
+			4 1 roll 3 npop
+			findcmykcustomcolor
+		}{
+			8 -4 roll 4 npop
+			findrgbcustomcolor
+		} ifelse
+	} ifelse
+	/_if exch ddef
+	/_fc
+	{
+		_lp /fill ne
+		{
+			_of setoverprint
+			_if _gf 1 exch sub setcustomcolor
+			/_lp /fill ddef
+		} if
+	} ddef
+	/_pf
+	{
+		_fc
+		_eo {eofill} {fill} ifelse
+	} ddef
+	/_psf
+	{
+		_fc
+		hvashow
+	} ddef
+	/_pjsf
+	{
+		_fc
+		hvawidthshow
+	} ddef
+	/_lp /none ddef
+} def
+/XX
+{
+	exch
+	/_gs exch ddef
+	0 eq {
+		findcmykcustomcolor
+	}{
+		_?cmyk {true}{/findrgbcustomcolor where{pop false}{true}ifelse}ifelse
+		{
+			4 1 roll 3 npop
+			findcmykcustomcolor
+		}{
+			8 -4 roll 4 npop
+			findrgbcustomcolor
+		} ifelse
+	} ifelse
+	/_is exch ddef
+	/_sc
+	{
+		_lp /stroke ne
+		{
+			_os setoverprint
+			_is _gs 1 exch sub setcustomcolor
+			/_lp /stroke ddef
+		} if
+	} ddef
+	/_ps
+	{
+		_sc
+		stroke
+	} ddef
+	/_pss
+	{
+		_sc
+		ss
+	} ddef
+	/_pjss
+	{
+		_sc
+		jss
+	} ddef
+	/_lp /none ddef
+} def
+/x
+{
+	/_gf exch ddef
+	findcmykcustomcolor
+	/_if exch ddef
+	/_fc
+	{
+		_lp /fill ne
+		{
+			_of setoverprint
+			_if _gf 1 exch sub setcustomcolor
+			/_lp /fill ddef
+		} if
+	} ddef
+	/_pf
+	{
+		_fc
+		_eo {eofill} {fill} ifelse
+	} ddef
+	/_psf
+	{
+		_fc
+		hvashow
+	} ddef
+	/_pjsf
+	{
+		_fc
+		hvawidthshow
+	} ddef
+	/_lp /none ddef
+} def
+/X
+{
+	/_gs exch ddef
+	findcmykcustomcolor
+	/_is exch ddef
+	/_sc
+	{
+		_lp /stroke ne
+		{
+			_os setoverprint
+			_is _gs 1 exch sub setcustomcolor
+			/_lp /stroke ddef
+		} if
+	} ddef
+	/_ps
+	{
+		_sc
+		stroke
+	} ddef
+	/_pss
+	{
+		_sc
+		ss
+	} ddef
+	/_pjss
+	{
+		_sc
+		jss
+	} ddef
+	/_lp /none ddef
+} def
+/XK
+{
+	3 -1 roll pop
+	0 eq
+	{
+		1 exch sub
+		3 {dup 3 1 roll mul 5 1 roll} repeat
+		mul 4 1 roll
+		K
+	}
+	{
+		1 exch sub 4 1 roll
+		3 {1 exch sub 3 index mul 1 exch sub 3 1 roll} repeat
+		4 -1 roll pop
+		XA
+	} ifelse
+} def
+/Xk
+{
+	3 -1 roll pop
+	0 eq
+	{
+		1 exch sub
+		3 {dup 3 1 roll mul 5 1 roll} repeat
+		mul 4 1 roll
+		k
+	}
+	{
+		1 exch sub 4 1 roll
+		3 {1 exch sub 3 index mul 1 exch sub 3 1 roll} repeat
+		4 -1 roll pop
+		Xa
+	} ifelse
+} def
+/A
+{
+	pop
+} def
+/annotatepage
+{
+userdict /annotatepage 2 copy known {get exec} {pop pop} ifelse
+} def
+/XT {
+	pop pop
+} def
+/Xt {
+	pop
+} def
+/discard
+{
+	save /discardSave exch store
+	discardDict begin
+	/endString exch store
+	gt38?
+	{
+		2 add
+	} if
+	load
+	stopped
+	pop
+ end
+	discardSave restore
+} bind def
+userdict /discardDict 7 dict dup begin
+put
+/pre38Initialize
+{
+	/endStringLength endString length store
+	/newBuff buffer 0 endStringLength getinterval store
+	/newBuffButFirst newBuff 1 endStringLength 1 sub getinterval store
+	/newBuffLast newBuff endStringLength 1 sub 1 getinterval store
+} def
+/shiftBuffer
+{
+	newBuff 0 newBuffButFirst putinterval
+	newBuffLast 0
+	currentfile read not
+	{
+	stop
+	} if
+	put
+} def
+0
+{
+	pre38Initialize
+	mark
+	currentfile newBuff readstring exch pop
+	{
+		{
+			newBuff endString eq
+			{
+				cleartomark stop
+			} if
+			shiftBuffer
+		} loop
+	}
+	{
+	stop
+	} ifelse
+} def
+1
+{
+	pre38Initialize
+	/beginString exch store
+	mark
+	currentfile newBuff readstring exch pop
+	{
+		{
+			newBuff beginString eq
+			{
+				/layerCount dup load 1 add store
+			}
+			{
+				newBuff endString eq
+				{
+					/layerCount dup load 1 sub store
+					layerCount 0 eq
+					{
+						cleartomark stop
+					} if
+				} if
+			} ifelse
+			shiftBuffer
+		} loop
+	} if
+} def
+2
+{
+	mark
+	{
+		currentfile buffer {readline} stopped {
+			% assume error was due to overfilling the buffer
+		}{
+			not
+			{
+				stop
+			} if
+			endString eq {
+				cleartomark stop
+			} if
+		}ifelse
+	} loop
+} def
+3
+{
+	/beginString exch store
+	/layerCnt 1 store
+	mark
+	{
+		currentfile buffer {readline} stopped {
+			% assume error was due to overfilling the buffer
+		}{
+			not
+			{
+				stop
+			} if
+			dup beginString eq
+			{
+				pop /layerCnt dup load 1 add store
+			}
+			{
+				endString eq
+				{
+					layerCnt 1 eq
+					{
+						cleartomark stop
+					}
+					{
+						/layerCnt dup load 1 sub store
+					} ifelse
+				} if
+			} ifelse
+		}ifelse
+	} loop
+} def
+end
+userdict /clipRenderOff 15 dict dup begin
+put
+{
+	/n /N /s /S /f /F /b /B
+}
+{
+	{
+		_doClip 1 eq
+		{
+			/_doClip 0 ddef _eo {eoclip} {clip} ifelse
+		} if
+		newpath
+	} def
+} forall
+/Tr /pop load def
+/Bb {} def
+/BB /pop load def
+/Bg {12 npop} def
+/Bm {6 npop} def
+/Bc /Bm load def
+/Bh {4 npop} def
+end
+/Lb
+{
+	6 npop
+	7 2 roll
+	5 npop
+	0 eq
+	{
+		0 eq
+		{
+			(%AI5_BeginLayer) 1 (%AI5_EndLayer--) discard
+		}
+		{
+			
+			/clipForward? true def
+			
+			/Tx /pop load def
+			/Tj /pop load def
+			
+			currentdict end clipRenderOff begin begin
+		} ifelse
+	}
+	{
+		0 eq
+		{
+			save /discardSave exch store
+		} if
+	} ifelse
+} bind def
+/LB
+{
+	discardSave dup null ne
+	{
+		restore
+	}
+	{
+		pop
+		clipForward?
+		{
+			currentdict
+		 end
+		 end
+		 begin
+					
+			/clipForward? false ddef
+		} if
+	} ifelse
+} bind def
+/Pb
+{
+	pop pop
+	0 (%AI5_EndPalette) discard
+} bind def
+/Np
+{
+	0 (%AI5_End_NonPrinting--) discard
+} bind def
+/Ln /pop load def
+/Ap
+/pop load def
+/Ar
+{
+	72 exch div
+	0 dtransform dup mul exch dup mul add sqrt
+	dup 1 lt
+	{
+		pop 1
+	} if
+	setflat
+} def
+/Mb
+{
+	q
+} def
+/Md
+{
+} def
+/MB
+{
+	Q
+} def
+/nc 4 dict def
+nc begin
+/setgray
+{
+	pop
+} bind def
+/setcmykcolor
+{
+	4 npop
+} bind def
+/setrgbcolor
+{
+	3 npop
+} bind def
+/setcustomcolor
+{
+	2 npop
+} bind def
+currentdict readonly pop
+end
+/XP
+{
+	4 npop
+} bind def
+/XD
+{
+	pop
+} bind def
+end
+setpacking
+%%EndResource
+%%BeginResource: procset Adobe_cshow 2.0 8
+%%Title: (Writing System Operators)
+%%Version: 2.0 8
+%%CreationDate: (1/23/89) ()
+%%Copyright: ((C) 1992-1996 Adobe Systems Incorporated All Rights Reserved)
+currentpacking true setpacking
+userdict /Adobe_cshow 14 dict dup begin put
+/initialize
+{
+	Adobe_cshow begin
+	Adobe_cshow
+	{
+		dup xcheck
+		{
+			bind
+		} if
+		pop pop
+	} forall
+ end
+	Adobe_cshow begin
+} def
+/terminate
+{
+currentdict Adobe_cshow eq
+	{
+ end
+	} if
+} def
+/cforall
+{
+	/_lobyte 0 ddef
+	/_hibyte 0 ddef
+	/_cproc exch ddef
+	/_cscript currentfont /FontScript known { currentfont /FontScript get } { -1 } ifelse ddef
+	{
+		/_lobyte exch ddef
+		_hibyte 0 eq
+		_cscript 1 eq
+		_lobyte 129 ge _lobyte 159 le and
+		_lobyte 224 ge _lobyte 252 le and or and
+		_cscript 2 eq
+		_lobyte 161 ge _lobyte 254 le and and
+		_cscript 3 eq
+		_lobyte 161 ge _lobyte 254 le and and
+    	_cscript 25 eq
+		_lobyte 161 ge _lobyte 254 le and and
+    	_cscript -1 eq
+		or or or or and
+		{
+			/_hibyte _lobyte ddef
+		}
+		{
+			_hibyte 256 mul _lobyte add
+			_cproc
+			/_hibyte 0 ddef
+		} ifelse
+	} forall
+} def
+/cstring
+{
+	dup 256 lt
+	{
+		(s) dup 0 4 3 roll put
+	}
+	{
+		dup 256 idiv exch 256 mod
+		(hl) dup dup 0 6 5 roll put 1 4 3 roll put
+	} ifelse
+} def
+/clength
+{
+	0 exch
+	{ 256 lt { 1 } { 2 } ifelse add } cforall
+} def
+/hawidthshow
+{
+	{
+		dup cstring
+		show
+		_hvax _hvay rmoveto
+		_hvwb eq { _hvcx _hvcy rmoveto } if
+	} cforall
+} def
+/vawidthshow
+{
+	{
+		dup 255 le
+		_charorientation 1 eq
+		and
+		{
+			-90 rotate
+			0 _fontRotateAdjust rmoveto
+			cstring
+			_hvcx _hvcy _hvwb _hvax _hvay 6 -1 roll awidthshow
+			0 _fontRotateAdjust neg rmoveto
+			90 rotate
+		}
+		{
+			currentpoint
+			_fontHeight sub
+			exch _hvay sub exch _hvax sub
+			2 index _hvwb eq { exch _hvcy sub exch _hvcx sub } if
+			3 2 roll
+			cstring
+			dup stringwidth pop 2 div neg _fontAscent neg rmoveto
+			show
+			moveto
+		} ifelse
+	} cforall
+} def
+/hvawidthshow
+{
+	6 1 roll
+	/_hvay exch ddef
+	/_hvax exch ddef
+	/_hvwb exch ddef
+	/_hvcy exch ddef
+	/_hvcx exch ddef
+	_lineorientation 0 eq { hawidthshow } { vawidthshow } ifelse
+} def
+/hvwidthshow
+{
+	0 0 3 -1 roll hvawidthshow
+} def
+/hvashow
+{
+	0 0 0 6 -3 roll hvawidthshow
+} def
+/hvshow
+{
+	0 0 0 0 0 6 -1 roll hvawidthshow
+} def
+currentdict readonly pop end
+setpacking
+%%EndResource
+%%BeginResource: procset Adobe_shading_AI8 1.0 0
+%%Title: (Adobe Illustrator 8 Shading Procset)
+%%Version: 1.0 0
+%%CreationDate: (12/17/97) ()
+%%Copyright: ((C) 1987-1997 Adobe Systems Incorporated All Rights Reserved)
+userdict /defaultpacking currentpacking put true setpacking
+userdict /Adobe_shading_AI8 10 dict dup begin put
+/initialize {
+	Adobe_shading_AI8 begin
+	Adobe_shading_AI8 bdprocs
+	Mesh /initialize get exec
+} def
+/terminate {
+	currentdict Adobe_shading_AI8 eq {
+	 end
+	} if
+} def
+/bdprocs {
+	{
+		dup xcheck 1 index type /arraytype eq and {
+			bind
+		} if
+		pop pop
+	} forall
+} def
+/X! {pop} def
+/X# {pop pop} def
+/Mesh 40 dict def
+Mesh begin
+/initialize {
+	Mesh bdprocs
+	Mesh begin
+		/emulate? /AI8MeshEmulation where {
+			pop AI8MeshEmulation
+		}{
+			systemdict /shfill known not
+		} ifelse def
+ end
+} def
+/bd {
+	shadingdict begin
+} def
+/paint {
+	emulate? {
+	 end
+	}{
+		/_lp /none ddef _fc /_lp /none ddef
+		
+		/AIColorSpace AIColorSpace tocolorspace store
+		/ColorSpace AIColorSpace topsspace store
+		
+		version_ge_3010.106 not systemdict /setsmoothness known and {
+			0.0001 setsmoothness
+		} if
+		
+		composite? {
+			/DataSource getdatasrc def
+			Matrix concat
+			currentdict end
+			shfill
+		}{
+			AIColorSpace makesmarks AIPlateList markingplate and not isoverprint and {
+			 end
+			}{
+				/ColorSpace /DeviceGray store
+				/Decode [0 1 0 1 0 1] store
+				/DataSource getplatesrc def
+				Matrix concat
+				currentdict end
+				shfill
+			} ifelse
+		} ifelse
+	} ifelse
+} def
+/shadingdict 12 dict def
+shadingdict begin
+	/ShadingType 6 def
+	/BitsPerCoordinate 16 def
+	/BitsPerComponent 8 def
+	/BitsPerFlag 8 def
+end
+/datafile null def
+/databuf 256 string def
+/dataptr 0 def
+/srcspace null def
+/srcchannels 0 def
+/dstchannels 0 def
+/dstplate 0 def
+/srctodstcolor null def
+/getplatesrc {
+	/srcspace AIColorSpace store
+	/srcchannels AIColorSpace getnchannels store
+	/dstchannels 1 store
+	/dstplate getplateindex store
+	/srctodstcolor srcspace makesmarks {
+		dstplate 4 eq {
+			{1 exch sub}
+		}{
+			{srcspace tocmyk 3 dstplate sub index 1 exch sub 5 1 roll 4 {pop} repeat}
+		} ifelse
+	}{
+		{srcchannels {pop} repeat 1}
+	} ifelse store
+	/datafile getdatasrc store
+	/rdpatch168 load DataLength () /SubFileDecode filter
+} def
+/getdatasrc {
+	/rdcmntline load /ASCII85Decode filter
+} def
+/rdpatch168 {
+	/dataptr 0 store
+	49 rdcount
+	4 {
+		dup {pop srcchannels getint8} if
+		dup {pop srctodstcolor dstchannels putint8 true} if
+	} repeat
+	{databuf 0 dataptr getinterval}{()} ifelse
+} def
+/rdpatch3216 {
+	/dataptr 0 store
+	97 rdcount
+	4 {
+		dup {pop srcchannels getint16} if
+		dup {pop srctodstcolor dstchannels putint16 true} if
+	} repeat
+	{databuf 0 dataptr getinterval}{()} ifelse
+} def
+/rdcount {
+	dup 0 gt {
+		datafile databuf dataptr 4 -1 roll getinterval readstring
+		exch length dataptr add /dataptr exch store
+	}{
+		true
+	} ifelse
+} def
+/getint8 {
+	mark true 3 -1 roll
+	{
+		dup {pop datafile read} if
+		dup {pop 255 div true} if
+	} repeat
+	{
+		counttomark 1 add -1 roll pop true
+	}{
+		cleartomark false
+	} ifelse
+} def
+/putint8 {
+	dup dataptr add /dataptr exch store
+	dataptr exch
+	{
+		1 sub exch
+		255 mul cvi
+		databuf 2 index
+		3 -1 roll put
+	} repeat
+	pop
+} def 
+/getint16 {
+	mark true 3 -1 roll
+	{
+		dup {pop datafile read} if
+		dup {pop 256 mul datafile read} if
+		dup {pop add 65535 div true} if
+	} repeat
+	{
+		counttomark 1 add -1 roll pop true
+	}{
+		cleartomark false
+	} ifelse
+} def
+/putint16 {
+	dup 2 mul dataptr add /dataptr exch store
+	dataptr exch
+	{
+		2 sub exch
+		65535 mul cvi dup
+		256 idiv databuf 3 index 3 -1 roll put
+		256 mod databuf 2 index 1 add 3 -1 roll put
+	} repeat
+	pop
+} def 
+/srcbuf 256 string def
+/rdcmntline {
+	currentfile srcbuf readline pop
+	(%) anchorsearch {pop} if
+} def
+/getplateindex {
+	0 [cyan? magenta? yellow? black? customColor?] {{exit} if 1 add} forall
+} def
+/aicsarray 4 array def
+/aicsaltvals 4 array def
+/aicsaltcolr aicsaltvals def
+/tocolorspace {
+	dup type /arraytype eq {
+		mark exch aload pop
+		aicsarray 0 3 -1 roll put
+		aicsarray 1 3 -1 roll put
+		dup aicsarray 2 3 -1 roll put
+		gettintxform aicsarray 3 3 -1 roll put
+		counttomark aicsaltvals 0 3 -1 roll getinterval /aicsaltcolr exch store
+		aicsaltcolr astore pop pop
+		aicsarray
+	} if
+} def
+/subtintxform {aicsaltcolr {1 index mul exch} forall pop} def
+/addtintxform {aicsaltcolr {1 sub 1 index mul 1 add exch} forall pop} def
+/gettintxform {
+	/DeviceRGB eq {/addtintxform}{/subtintxform} ifelse load
+} def
+/getnchannels {
+	dup type /arraytype eq {0 get} if
+	colorspacedict exch get begin Channels end
+} def
+/makesmarks {
+	composite? {
+		pop true
+	}{
+		dup dup type /arraytype eq {0 get} if
+		colorspacedict exch get begin MarksPlate end
+	} ifelse
+} def
+/markingplate {
+	composite? {
+		pop true
+	}{
+		dup type /arraytype eq {
+			dup length getplateindex gt {getplateindex get}{pop false} ifelse
+		} if
+	} ifelse
+} def
+/tocmyk {
+	dup dup type /arraytype eq {0 get} if
+	colorspacedict exch get begin ToCMYK end
+} def
+/topsspace {
+	dup dup type /arraytype eq {0 get} if
+	colorspacedict exch get begin ToPSSpace end
+} def
+/colorspacedict 5 dict dup begin
+	/DeviceGray 4 dict dup begin
+		/Channels 1 def
+		/MarksPlate {pop black?} def
+		/ToCMYK {pop 1 exch sub 0 0 0 4 -1 roll} def
+		/ToPSSpace {} def
+ end def
+	/DeviceRGB 4 dict dup begin
+		/Channels 3 def
+		/MarksPlate {pop isCMYKSep?} def
+		/ToCMYK {pop _rgbtocmyk} def
+		/ToPSSpace {} def
+ end def
+	/DeviceCMYK 4 dict dup begin
+		/Channels 4 def
+		/MarksPlate {pop isCMYKSep?} def
+		/ToCMYK {pop} def
+		/ToPSSpace {} def
+ end def
+	/Separation 4 dict dup begin
+		/Channels 1 def
+		/MarksPlate {
+			/findcmykcustomcolor where {
+				pop dup 1 exch ToCMYK 5 -1 roll 1 get
+				findcmykcustomcolor 1 setcustomcolor
+				systemdict /currentgray get exec
+				1 ne
+			}{
+				pop false
+			} ifelse
+		} def
+		/ToCMYK {
+			dup 2 get mark exch 4 2 roll
+			3 get exec
+			counttomark -1 roll tocmyk
+			5 -1 roll pop
+		} def
+		/ToPSSpace {} def
+ end def
+	/Process 4 dict dup begin
+		/Channels 1 def
+		/MarksPlate {
+			isCMYKSep? {
+				1 exch ToCMYK 4 array astore getplateindex get 0 ne 
+			}{
+				pop false
+			} ifelse
+		} def
+		/ToCMYK {
+			dup 2 get mark exch 4 2 roll
+			3 get exec
+			counttomark -1 roll tocmyk
+			5 -1 roll pop
+		} def
+		/ToPSSpace {
+			4 array copy dup 0 /Separation put
+		} def
+ end def
+end def
+/isoverprint {
+	/currentoverprint where {pop currentoverprint}{_of} ifelse
+} def
+/version_ge_3010.106 {
+   version {cvr} stopped {
+      pop
+      false
+   }{
+      3010.106 ge
+   } ifelse
+} def
+end
+end
+defaultpacking setpacking
+%%EndResource
+%%EndProlog
+%%BeginSetup
+userdict /_useSmoothShade false put
+userdict /_aicmykps false put
+userdict /_forceToCMYK false put
+Adobe_level2_AI5 /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_ColorImage_AI6 /initialize get exec
+Adobe_shading_AI8 /initialize get exec
+Adobe_Illustrator_AI5 /initialize get exec
+%AI5_Begin_NonPrinting
+Np
+%AI8_PluginGroupInfo
+(Adobe Vectorized Object) (Image Tracing) (Vectorize.aip)
+%AI8_PluginGroupInfo
+(Adobe Flare Plugin) (Flare) (Flare.aip)
+%AI8_PluginGroupInfo
+(Adobe Deform Plugin) (Adobe Envelope Plugin) (Deform.aip)
+%AI8_PluginGroupInfo
+(Adobe Planar Group) (Adobe Live Paint Plugin) (PlanetX.aip)
+%AI8_PluginGroupInfo
+(Adobe Perspective Plugin Group) (Adobe Perspective Plugin Group) (Perspective.aip)
+%AI8_PluginGroupInfo
+(Adobe Line Plugin Group) (Line artwork) (Illustrator.exe)
+%AI8_PluginGroupInfo
+(Adobe Sketch Plugin Group) (Sketch artwork) (Illustrator.exe)
+%AI8_PluginGroupInfo
+(Adobe Path Blends) (Adobe Blends Plugin) (LiveBlends.aip)
+%AI8_PluginGroupInfo
+(Adobe Calligraphic Brush Tool) (Adobe Calligraphic Brush Plugin) (CalligraphicBrushTool.aip)
+%AI8_PluginGroupInfo
+(Adobe Symbolism) (Adobe Symbolism) (ParticleSystem.aip)
+%AI8_PluginGroupInfo
+(Adobe PatternOnPath Brush Tool) (Adobe Pattern Brush Plugin) (ArtOnPathBrushTool.aip)
+%AI8_PluginGroupInfo
+(Adobe PatternOnPath Brush Tool) (Adobe Pattern Brush Plugin) (ArtOnPathBrushTool.aip)
+%AI8_PluginGroupInfo
+(Adobe ArtOnPath Brush Tool) (Adobe Art Brush Plugin) (ArtOnPathBrushTool.aip)
+%AI8_PluginGroupInfo
+(Adobe ArtOnPath Brush Tool) (Adobe Art Brush Plugin) (ArtOnPathBrushTool.aip)
+%AI8_PluginGroupInfo
+(Adobe Scatter Brush Tool) (Adobe Scatter Brush Plugin) (ScatterBrushTool.aip)
+%AI8_PluginGroupInfo
+(Adobe Scatter Brush Tool) (Adobe Scatter Brush Plugin) (ScatterBrushTool.aip)
+%AI8_PluginGroupInfo
+(Adobe Pattern Editor Plugin Group) (Adobe Pattern Editor Plugin Group) (SwatchLibs.aip)
+%AI8_PluginGroupInfo
+(Pathfinder Suite) (Adobe Compound Shape) (PathfinderS.aip)
+%AI5_End_NonPrinting--
+%AI5_Begin_NonPrinting
+Np
+%AI8_BeginPluginObject
+(Adobe Brush Manager Order)
+(Adobe Brush Manager Order)
+( Adobe Calligraphic Brush Tool/ Touch Calligraphic Brush/) .
+%AI8_EndPluginObject
+%AI5_End_NonPrinting--
+%AI5_Begin_NonPrinting
+Np
+%AI8_BeginPluginObject
+(Adobe Calligraphic Brush Tool)
+(Touch Calligraphic Brush)
+(1 0 24 100 100 0 0 2 0 0 0) .
+%AI8_EndPluginObject
+%AI5_End_NonPrinting--
+%AI5_BeginPalette
+0 0 Pb
+1 1 1 1 ([Registration]) 0 Xs
+([Registration])
+Pc
+PB
+%AI5_EndPalette
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 1 1 255 79 79 0 50 Lb
+(Guides For Artboard) Ln
+0 A
+0 J 0 j 1 w 10 M []0 d0 XR
+0 277.44 m
+278.3999 277.44 L
+278.3999 0 L
+0 0 L
+0 277.44 L
+(n) *
+-361 638.5 m
+639 638.5 L
+639 -361.5 L
+-361 -361.5 L
+-361 638.5 L
+(n) *
+LB
+%AI5_EndLayer--
+%AI5_BeginLayer
+1 1 1 1 0 0 1 0 79 128 255 0 50 Lb
+(Layer 1) Ln
+0 A
+*u
+1 D
+0 O
+0 0 0 0 k
+0 J 0 j 1 w 10 M []0 d1 XR
+267.36 187.92 m
+249.0307 234.5198 203.1837 277.6758 137.52 276.48 C
+132.0006 276.08 126.4794 275.68 120.96 275.28 C
+110.5096 273.279 100.6435 271.5856 91.68 268.08 c
+51.604 252.4063 24.9928 224.5052 9.35999 184.32 c
+6.3075 176.4733 4.87433 167.6043 3.12 158.64 c
+-0.569397 139.7868 2.66919 116.3937 7.20001 101.52 c
+19.9382 59.7034 46.0134 29.9298 84 13.44 c
+93.2608 9.41992 103.3556 6.30353 114.48 3.84003 C
+119.6795 3.28009 124.8805 2.71991 130.08 2.15997 C
+134.4796 2 138.8804 1.84003 143.28 1.67999 C
+156.0144 3.8576 167.37 3.83112 178.08 7.20001 c
+221.1651 20.7527 251.4924 49.4722 267.6 90 c
+279.0995 118.9336 278.6053 159.3302 267.36 187.92 c
+f
+0 D
+263.28 87.36 m
+247.0633 49.2772 217.1861 22.1766 175.44 9.59998 c
+166.0197 6.76202 155.9342 6.64032 144.96 4.79999 C
+141.1204 4.88 137.2796 4.96002 133.44 5.03998 C
+128.4805 5.44 123.5195 5.84003 118.56 6.23999 C
+106.8001 8.646 96.278 11.4548 86.64 15.6 c
+48.5782 31.9699 22.913 60.7993 10.08 102.48 c
+5.48822 117.3938 2.57208 140.4411 6.23999 158.88 c
+7.99872 167.7209 9.4671 176.3631 12.48 184.08 c
+27.6195 222.8561 53.8925 250.0785 92.64 265.2 c
+100.6728 268.3348 109.5795 270.0547 118.8 271.92 C
+124.0795 272.4 129.3605 272.88 134.64 273.36 C
+201.2666 273.5289 243.0102 237.0303 263.04 190.56 c
+276.0131 160.4617 276.2415 117.7983 263.28 87.36 c
+f
+*U
+*u
+1 D
+262.8 187.2 m
+244.0239 233.4216 201.2124 273.1285 135.36 271.92 C
+131.1204 271.6 126.8796 271.28 122.64 270.96 C
+112.9119 269.1388 103.4214 267.7509 95.04 264.48 c
+56.0713 249.2722 29.3457 223.2781 14.16 184.32 c
+11.0885 176.4403 9.49982 167.6567 7.67999 158.64 c
+4.16748 141.2364 6.87482 118.6326 11.04 104.64 c
+23.4271 63.0267 48.3523 33.8219 85.92 17.52 c
+95.0303 13.5667 104.9878 10.5805 115.92 8.15997 C
+120.4795 7.67999 125.0405 7.20001 129.6 6.71997 C
+134.5595 6.56 139.5205 6.40002 144.48 6.23999 C
+155.8692 8.18768 166.2041 8.28979 175.92 11.28 c
+216.8747 23.8842 246.1369 50.7223 262.08 88.32 c
+274.248 117.0151 274.6782 157.9592 262.8 187.2 c
+f
+0 D
+260.64 87.6 m
+245.1086 51.5163 216.4026 25.0439 177.12 12.72 c
+167.7709 9.78699 157.8143 9.2757 146.88 7.44 C
+141.6805 7.52002 136.4795 7.59998 131.28 7.67999 C
+126.8804 8.08002 122.4796 8.47998 118.08 8.88 C
+107.8107 10.9812 98.3212 13.4889 89.76 17.04 c
+52.5975 32.4546 26.0537 60.1406 13.44 100.08 c
+8.70758 115.0646 4.77368 138.2437 8.64001 157.68 c
+10.3238 166.1448 11.5125 174.5106 14.4 181.92 c
+29.2571 220.0441 54.2485 247.363 92.16 262.32 c
+100.1948 265.4899 109.0947 267.4048 118.32 269.28 C
+122.9595 269.76 127.6005 270.24 132.24 270.72 C
+199.211 270.8873 240.3461 236.8365 260.4 190.32 c
+273.4481 160.054 273.8119 118.202 260.64 87.6 c
+f
+*U
+*u
+%AI3_Note:<< /operation /xor /defaultFill false >>130.56 261.12 m
+132.1598 261.12 133.7602 261.12 135.36 261.12 C
+138.3197 257.1204 141.2803 253.1196 144.24 249.12 C
+144.16 252.4797 144.08 255.8403 144 259.2 C
+143.1873 260.0026 141.9329 260.0431 141.36 261.12 C
+143.3109 261.2339 147.3235 261.6257 148.08 260.4 C
+147.2801 260.08 146.4799 259.76 145.68 259.44 C
+145.6 254.5605 145.52 249.6795 145.44 244.8 C
+145.12 244.8 144.8 244.8 144.48 244.8 C
+141.2803 249.1996 138.0797 253.6004 134.88 258 C
+134.8 258 134.72 258 134.64 258 C
+134.72 254.4004 134.8 250.7996 134.88 247.2 C
+135.6918 246.301 136.9562 246.1971 137.52 245.04 C
+135.5691 244.9261 131.5565 244.5343 130.8 245.76 C
+131.5999 246.08 132.4001 246.4 133.2 246.72 C
+133.2 250.8796 133.2 255.0404 133.2 259.2 C
+132.545 260.2006 131.1969 259.9028 130.56 261.12 C
+f
+*U
+*u
+127.68 260.88 m
+128.1758 260.4088 127.9284 260.7901 128.16 259.92 C
+127.0087 259.7079 126.7325 259.5849 126.24 258.72 C
+125.1251 252.9939 130.4339 245.7422 123.6 243.36 c
+113.849 239.9609 116.0811 252.2165 113.76 257.28 C
+112.632 257.4089 112.2977 257.3782 111.84 258.24 C
+114.0798 258.56 116.3202 258.88 118.56 259.2 C
+118.56 258.96 118.56 258.72 118.56 258.48 C
+117.9201 258.16 117.2799 257.84 116.64 257.52 C
+116.6293 253.6038 117.4266 246.1164 120.24 244.8 C
+122.4072 243.5791 125.269 245.176 126 246.96 C
+126.9702 250.274 125.4235 256.4757 124.08 258.72 C
+122.8209 258.8931 122.1208 258.7825 121.68 259.92 C
+123.6798 260.24 125.6802 260.56 127.68 260.88 C
+f
+*U
+*u
+150.72 260.4 m
+152.6938 260.3438 156.6262 260.1992 157.92 259.2 C
+157.0401 258.88 156.1599 258.56 155.28 258.24 C
+154.9847 254.3371 152.8345 248.1276 154.32 244.8 C
+155.3964 244.5257 155.5706 244.5767 156 243.6 C
+154.0268 243.6165 149.4421 243.7876 148.8 245.28 C
+150.2061 245.2154 150.6533 245.1826 151.2 246 C
+151.7599 250.2396 152.3201 254.4804 152.88 258.72 C
+151.8578 259.1562 151.1505 259.2784 150.72 260.4 C
+f
+*U
+*u
+159.84 259.68 m
+161.9998 259.1201 164.1602 258.5599 166.32 258 C
+166.32 257.92 166.32 257.84 166.32 257.76 C
+166.24 257.6 166.16 257.44 166.08 257.28 C
+165.3601 257.28 164.6399 257.28 163.92 257.28 C
+164.4 253.2804 164.88 249.2796 165.36 245.28 C
+165.52 245.36 165.68 245.44 165.84 245.52 C
+167.3795 249.0016 171.1329 251.2187 171.84 255.36 C
+170.9818 255.8412 170.3459 256.0535 169.92 257.04 C
+170.24 257.04 170.56 257.04 170.88 257.04 C
+172.3761 256.6222 174.9969 256.4326 175.68 255.12 C
+168.9616 254.4567 169.2083 243.3788 163.44 241.92 C
+162.8001 247.0395 162.1599 252.1605 161.52 257.28 C
+160.9978 258.5967 159.9622 258.2815 159.84 259.68 C
+f
+*U
+*u
+177.6 254.88 m
+181.4396 253.4401 185.2804 251.9999 189.12 250.56 C
+188.72 249.2801 188.32 247.9999 187.92 246.72 C
+187.68 246.8 187.44 246.88 187.2 246.96 C
+186.9558 250.5419 184.8302 251.7024 181.68 252.24 C
+180.9601 250.2402 180.2399 248.2398 179.52 246.24 C
+180.4799 245.92 181.4401 245.6 182.4 245.28 C
+183.446 245.8131 183.9227 246.2833 184.56 247.2 C
+184.8 247.12 185.04 247.04 185.28 246.96 C
+185.28 246.88 185.28 246.8 185.28 246.72 C
+184.6338 245.1042 183.9911 241.9228 182.4 241.2 C
+182.4478 242.8914 182.2221 243.6279 181.68 244.56 C
+180.8001 244.88 179.9199 245.2 179.04 245.52 C
+178.96 245.44 178.88 245.36 178.8 245.28 C
+178.2401 243.3602 177.6799 241.4398 177.12 239.52 C
+177.28 239.2 177.44 238.88 177.6 238.56 C
+179.1998 238.08 180.8002 237.6 182.4 237.12 C
+183.5999 237.9199 184.8001 238.7201 186 239.52 C
+186.08 239.44 186.16 239.36 186.24 239.28 C
+185.6001 237.8401 184.9599 236.3999 184.32 234.96 C
+180.1604 236.6398 175.9996 238.3202 171.84 240 C
+171.92 240.16 172 240.32 172.08 240.48 C
+173.3962 240.3379 173.7802 240.2723 174.72 240.72 C
+176.1599 244.7996 177.6001 248.8804 179.04 252.96 C
+178.0453 253.6364 177.7173 253.8708 177.6 254.88 C
+f
+*U
+*u
+%AI3_Note:
+1 D
+201.6 237.6 m
+202.08 238.4799 202.56 239.3601 203.04 240.24 C
+202.6993 244.7304 196.7703 246.8768 193.44 248.4 C
+193.4088 247.2814 194.0805 247.2384 194.4 245.76 C
+192.7682 242.5345 190.4265 236.394 187.44 234.48 C
+186.8801 234.64 186.3199 234.8 185.76 234.96 C
+186.4375 233.1623 189.8024 231.8806 191.52 231.12 C
+191.6212 232.0885 191.0917 232.3505 190.32 233.04 C
+191.1999 234.8798 192.0801 236.7202 192.96 238.56 C
+193.5199 238.32 194.0801 238.08 194.64 237.84 C
+194.88 234.8003 195.12 231.7597 195.36 228.72 C
+196.7199 228.0801 198.0801 227.4399 199.44 226.8 C
+198.4653 229.6963 197.0511 232.722 197.04 237.12 C
+198.8633 236.7506 200.1967 237.1306 201.6 237.6 C
+f
+0 D
+193.92 239.04 m
+193.7623 241.0271 195.9906 243.2716 196.8 245.28 C
+198.3351 244.9415 199.3615 244.1887 200.16 243.12 C
+201.1724 238.3591 197.2348 237.768 193.92 239.04 C
+f
+*U
+*u
+1 D
+101.52 253.44 m
+102.1381 254.4224 102.8043 254.6269 103.2 255.84 C
+103.04 255.84 102.88 255.84 102.72 255.84 C
+100.8002 255.1201 98.8798 254.3999 96.96 253.68 C
+96.96 253.6 96.96 253.52 96.96 253.44 C
+97.6275 252.6643 98.3331 253.2604 99.6 252.72 C
+101.6672 251.4995 103.3314 245.6885 103.92 243.12 C
+99.6004 245.8397 95.2796 248.5603 90.96 251.28 C
+89.8401 250.8 88.7199 250.32 87.6 249.84 C
+87.36 249.68 87.12 249.52 86.88 249.36 C
+87.4301 248.9387 88.5528 248.9403 89.76 248.88 C
+91.5851 246.4806 97.7912 235.2338 90.72 235.2 C
+86.7204 238.4797 82.7196 241.7603 78.72 245.04 C
+78.48 244.96 78.24 244.88 78 244.8 C
+75.7205 242.223 82.7396 230.0436 78 226.8 C
+77.52 226.56 77.04 226.32 76.56 226.08 C
+73.9203 229.5197 71.2797 232.9603 68.64 236.4 C
+68.9249 237.8037 69.3932 237.9053 70.08 238.8 C
+68.3744 239.4207 66.233 236.5224 64.32 235.68 C
+64.16 235.44 64 235.2 63.84 234.96 C
+64.6908 234.4489 65.0056 234.8839 66.24 235.2 C
+68.8797 231.8403 71.5203 228.4797 74.16 225.12 C
+74.0042 223.6081 73.6437 223.3767 72.72 222.72 C
+72.72 222.64 72.72 222.56 72.72 222.48 C
+72.96 222.4 73.2 222.32 73.44 222.24 C
+76.8529 224.636 79.877 227.8769 84 229.44 C
+84 229.52 84 229.6 84 229.68 C
+83.92 229.84 83.84 230 83.76 230.16 C
+82.9601 230 82.1599 229.84 81.36 229.68 C
+81.28 229.76 81.2 229.84 81.12 229.92 C
+80.8 231.1999 80.48 232.4801 80.16 233.76 C
+81.8398 234.7199 83.5202 235.6801 85.2 236.64 C
+86.3199 235.6001 87.4401 234.5599 88.56 233.52 C
+88.24 233.28 87.92 233.04 87.6 232.8 C
+87.44 232.56 87.28 232.32 87.12 232.08 C
+87.9615 231.655 96.206 236.1568 98.88 236.88 C
+98.96 237.04 99.04 237.2 99.12 237.36 C
+98.5567 237.6127 97.4057 237.4886 96.48 237.84 C
+94.0389 239.2327 92.698 245.4054 91.68 248.16 C
+96.3995 245.2803 101.1205 242.3997 105.84 239.52 C
+105.92 239.6 106 239.68 106.08 239.76 C
+106.24 239.76 106.4 239.76 106.56 239.76 C
+104.8802 244.3195 103.1998 248.8805 101.52 253.44 C
+f
+0 D
+80.88 235.2 m
+80.64 235.12 80.4 235.04 80.16 234.96 C
+79.84 237.1198 79.52 239.2802 79.2 241.44 C
+80.4799 240.4801 81.7601 239.5199 83.04 238.56 C
+83.44 238.08 83.84 237.6 84.24 237.12 C
+83.1201 236.4801 81.9999 235.8399 80.88 235.2 C
+f
+*U
+*u
+%AI3_Note:<< /operation /xor /defaultFill false >>209.04 237.6 m
+213.5737 237.7217 215.1809 234.9709 217.2 233.28 C
+216.1601 231.9201 215.1199 230.5599 214.08 229.2 C
+213.84 229.28 213.6 229.36 213.36 229.44 C
+213.36 229.52 213.36 229.6 213.36 229.68 C
+214.3443 231.204 214.349 233.1179 213.84 234.96 C
+213.2801 235.44 212.7199 235.92 212.16 236.4 C
+211.5201 236.32 210.8799 236.24 210.24 236.16 C
+209.1479 235.6377 209.0237 235.1246 208.56 234 C
+209.3686 230.1767 214.6709 225.44 209.52 222.48 c
+208.7811 222.0554 207.4355 221.3677 205.92 221.76 c
+202.9197 222.5368 202.1433 225.5408 199.68 226.32 C
+199.68 226.56 199.68 226.8 199.68 227.04 C
+200.7199 228.3199 201.7601 229.6001 202.8 230.88 C
+202.96 230.72 203.12 230.56 203.28 230.4 C
+202.357 227.3351 202.4114 224.2235 205.44 223.2 C
+206.0799 223.2 206.7201 223.2 207.36 223.2 C
+208.5551 223.7878 208.6096 224.5331 209.28 225.6 C
+208.6357 229.333 206.27 229.9924 206.16 234.48 C
+206.9556 236.1082 207.7015 236.561 209.04 237.6 C
+f
+*U
+*u
+%AI3_Note:
+1 D
+227.76 176.88 m
+212.9574 211.4238 182.9753 236.1183 132.96 235.44 C
+129.6003 235.04 126.2397 234.64 122.88 234.24 C
+116.4018 232.9087 110.0999 231.4544 104.4 229.2 c
+78.2286 218.8489 58.9799 199.3084 48.72 173.04 c
+46.3842 167.0596 45.0092 160.4193 43.68 153.6 c
+41.8865 144.3987 42.4092 131.7193 44.16 123.12 c
+51.6476 86.3444 71.8932 62.516 103.2 49.68 c
+113.9265 45.2821 130.2516 40.2652 146.16 42.72 c
+187.3073 49.0694 213.898 68.06 228 101.04 c
+237.8155 123.9953 237.4519 154.2627 227.76 176.88 c
+f
+0 D
+227.76 103.2 m
+216.251 76.0685 195.3712 56.3688 165.84 47.28 c
+159.1482 45.2205 151.9355 44.9722 144.24 43.68 c
+129.4025 41.1885 111.9108 47.2074 102.48 51.12 c
+75.3949 62.357 56.2382 83.4713 47.28 112.8 c
+44.9352 120.4768 45.5005 127.9801 43.92 137.28 c
+42.2099 147.3426 46.0853 163.2859 48.96 170.64 c
+59.8026 198.3774 78.4199 217.8368 106.08 228.72 c
+111.8862 231.0045 118.3937 232.2154 125.04 233.52 C
+128.3997 233.84 131.7603 234.16 135.12 234.48 C
+183.9213 234.6461 213.266 209.2231 227.52 174.72 c
+236.0645 154.0372 236.6774 124.2221 227.76 103.2 c
+f
+*U
+*u
+1 D
+226.56 173.76 m
+213.1505 206.304 182.2899 233.8589 135.6 233.04 C
+132.7203 232.8 129.8397 232.56 126.96 232.32 C
+119.9294 230.9746 113.1276 229.9002 107.04 227.52 c
+80.444 217.1212 61.3101 198.6074 50.88 172.08 c
+29.8995 118.7194 64.0693 69.3326 100.08 53.52 c
+109.0659 49.5742 128.5187 42.3982 143.04 44.88 c
+151.3603 46.302 158.9593 46.4784 166.08 48.72 c
+193.8257 57.4543 214.652 76.2404 225.6 101.76 c
+234.4288 122.3398 235.3989 152.3085 226.56 173.76 c
+f
+0 D
+223.92 102.96 m
+213.4192 78.5574 193.5325 59.4644 167.04 51.12 c
+160.3346 49.008 153.2046 48.3494 145.44 47.04 c
+130.3257 44.4911 112.8701 50.1887 103.44 54.24 c
+68.5047 69.2486 34.0874 112.4999 50.88 165.84 c
+59.8141 194.2184 79.5954 214.4925 106.32 225.12 c
+111.825 227.3092 118.0553 228.6495 124.32 229.92 C
+127.2797 230.24 130.2403 230.56 133.2 230.88 C
+180.2727 231.0407 208.6869 208.9129 222.96 176.4 c
+232.4328 154.8219 233.6317 125.5289 223.92 102.96 c
+f
+*U
+*u
+%AI3_Note:<< /operation /xor /defaultFill false >>220.08 230.88 m
+221.8398 229.2002 223.6002 227.5198 225.36 225.84 C
+225.28 225.68 225.2 225.52 225.12 225.36 C
+224.1712 225.8682 223.9225 226.1737 222.48 226.32 C
+219.6003 223.1203 216.7197 219.9197 213.84 216.72 C
+214.3388 215.5825 214.7643 215.1112 214.8 214.08 C
+214.72 214.08 214.64 214.08 214.56 214.08 C
+212.9993 215.1665 209.335 218.1592 209.76 219.6 C
+212.9714 217.2932 218.7393 225.1308 220.8 228 C
+220.4605 229.343 219.9151 229.6474 220.08 230.88 C
+f
+*U
+*u
+%AI3_Note:
+1 D
+66.96 226.56 m
+65.4536 228.7395 63.4842 230.192 59.76 230.16 C
+56.8609 228.6917 54.8066 226.7821 52.32 225.6 C
+51.4401 224.6401 50.5599 223.6799 49.68 222.72 C
+50.6921 222.3783 50.6428 222.7947 52.32 222.96 C
+55.2797 219.7603 58.2403 216.5597 61.2 213.36 C
+60.8 212.7201 60.4 212.0799 60 211.44 C
+60.24 211.28 60.48 211.12 60.72 210.96 C
+63.9489 215.0205 71.9227 219.3796 66.96 226.56 c
+f
+0 D
+63.84 215.76 m
+63.52 215.68 63.2 215.6 62.88 215.52 C
+60.4802 218.0797 58.0798 220.6403 55.68 223.2 C
+54.9601 223.9199 54.2399 224.6401 53.52 225.36 C
+54.9439 226.4413 56.1815 227.2424 57.84 228.24 C
+64.6628 228.4549 71.0131 218.4875 63.84 215.76 C
+f
+*U
+*u
+%AI3_Note:<< /operation /xor /defaultFill false >>227.04 224.16 m
+230.1597 220.7203 233.2803 217.2797 236.4 213.84 C
+235.3601 212.8801 234.3199 211.9199 233.28 210.96 C
+233.12 211.12 232.96 211.28 232.8 211.44 C
+233.3486 212.6282 233.7071 213.4896 233.76 215.28 C
+233.2001 215.9999 232.6399 216.7201 232.08 217.44 C
+228.8227 215.2126 223.7623 211.5067 221.76 208.08 C
+222.08 207.4401 222.4 206.7999 222.72 206.16 C
+222.56 206 222.4 205.84 222.24 205.68 C
+222 205.84 221.76 206 221.52 206.16 C
+220.1601 207.8398 218.7999 209.5202 217.44 211.2 C
+217.6 211.36 217.76 211.52 217.92 211.68 C
+218.7888 211.0495 218.9131 210.7044 220.32 210.48 C
+223.6797 213.4397 227.0403 216.4003 230.4 219.36 C
+229.6801 220.0799 228.9599 220.8001 228.24 221.52 C
+226.1376 221.3655 224.7379 220.4662 224.16 221.76 C
+225.1199 222.5599 226.0801 223.3601 227.04 224.16 C
+f
+*U
+*u
+47.28 220.08 m
+47.52 220 47.76 219.92 48 219.84 C
+47.68 218.9601 47.36 218.0799 47.04 217.2 C
+50.3197 214.4803 53.6003 211.7597 56.88 209.04 C
+57.7599 209.36 58.6401 209.68 59.52 210 C
+59.52 209.92 59.52 209.84 59.52 209.76 C
+58.0801 207.9202 56.6399 206.0798 55.2 204.24 C
+54.96 204.32 54.72 204.4 54.48 204.48 C
+54.48 204.56 54.48 204.64 54.48 204.72 C
+54.8 205.4399 55.12 206.1601 55.44 206.88 C
+52.1603 209.6797 48.8797 212.4803 45.6 215.28 C
+43.9658 214.9083 43.8456 214.2247 42.72 214.56 C
+43.04 214.88 43.36 215.2 43.68 215.52 C
+44.8799 217.0398 46.0801 218.5602 47.28 220.08 C
+f
+*U
+*u
+237.12 212.64 m
+238.3999 210.6402 239.6801 208.6398 240.96 206.64 C
+240.1601 207.04 239.3599 207.44 238.56 207.84 C
+237.8944 206.0398 234.9616 202.3741 235.68 201.12 C
+237.9551 201.6311 241.4835 200.9272 242.88 202.32 C
+242.3818 203.5422 242.0855 203.6655 242.88 204.48 C
+242.88 204.32 242.88 204.16 242.88 204 C
+243.8399 202.6401 244.8001 201.2799 245.76 199.92 C
+245.6 199.76 245.44 199.6 245.28 199.44 C
+240.3302 202.4501 233.156 199.2652 230.16 197.28 C
+230.3603 195.4055 231.244 194.9936 229.92 194.4 C
+228.6401 196.3998 227.3599 198.4002 226.08 200.4 C
+226.24 200.56 226.4 200.72 226.56 200.88 C
+227.4684 200.1581 227.4741 199.7099 228.96 199.44 C
+234.9571 203.1141 234.9927 206.7563 237.12 212.64 C
+f
+*U
+*u
+40.8 212.16 m
+41.04 212.16 41.28 212.16 41.52 212.16 C
+40.7298 208.3531 42.4525 205.8486 43.44 202.56 C
+46.2397 202.64 49.0403 202.72 51.84 202.8 C
+53.1496 203.0969 53.639 204.0292 54.72 204 C
+53.2801 201.9202 51.8399 199.8398 50.4 197.76 C
+50.24 197.84 50.08 197.92 49.92 198 C
+49.92 198.08 49.92 198.16 49.92 198.24 C
+50.16 198.8799 50.4 199.5201 50.64 200.16 C
+50.48 200.16 50.32 200.16 50.16 200.16 C
+48.1602 200.16 46.1598 200.16 44.16 200.16 C
+44.9599 198.2402 45.7601 196.3198 46.56 194.4 C
+47.829 194.8056 47.8872 195.3931 48.96 195.36 C
+48.88 195.12 48.8 194.88 48.72 194.64 C
+47.6801 193.2001 46.6399 191.7599 45.6 190.32 C
+45.44 190.48 45.28 190.64 45.12 190.8 C
+46.3927 193.8397 44.0196 197.3992 43.2 200.16 C
+39.4532 201.1984 34.0753 198.994 32.4 199.2 C
+32.4 199.28 32.4 199.36 32.4 199.44 C
+33.7599 201.4398 35.1201 203.4402 36.48 205.44 C
+36.64 205.28 36.8 205.12 36.96 204.96 C
+36.72 204.4001 36.48 203.8399 36.24 203.28 C
+36.32 203.12 36.4 202.96 36.48 202.8 C
+38.3998 202.72 40.3202 202.64 42.24 202.56 C
+41.955 204.5316 41.0338 206.9258 39.84 208.08 C
+38.5328 207.4786 38.8445 207.0165 37.68 207.36 C
+38.7199 208.9598 39.7601 210.5602 40.8 212.16 C
+f
+*U
+*u
+%AI3_Note:
+1 D
+119.04 210.96 m
+109.0633 204.8414 111.3671 188.8245 111.6 173.04 C
+117.8394 173.04 124.0806 173.04 130.32 173.04 C
+130.32 178.7194 130.32 184.4006 130.32 190.08 C
+128.4333 191.819 126.5619 191.931 125.28 194.4 C
+131.5194 194.4 137.7606 194.4 144 194.4 C
+146.8863 208.7426 130.5654 218.0283 119.04 210.96 c
+f
+0 D
+119.76 199.44 m
+119.6326 193.1109 121.2691 189.3267 125.28 187.2 C
+125.28 184.1603 125.28 181.1197 125.28 178.08 C
+122.4003 178.08 119.5197 178.08 116.64 178.08 C
+116.4638 187.1959 114.886 201.3215 120 205.44 c
+126.1814 210.4182 138.3205 208.0822 138.96 199.44 C
+132.5606 199.44 126.1594 199.44 119.76 199.44 C
+f
+*U
+*u
+%AI3_Note:<< /operation /xor /defaultFill false >>242.4 185.28 m
+243.0399 185.2 243.6801 185.12 244.32 185.04 C
+245.2799 182.7202 246.2401 180.3998 247.2 178.08 C
+247.2 178.24 247.2 178.4 247.2 178.56 C
+248.4791 180.4673 248.8527 183.4444 250.08 185.28 C
+251.9446 185.2186 251.9367 184.8844 252.72 183.84 C
+251.5717 181.1117 249.4681 179.6721 247.92 177.36 C
+250.1504 177.7036 253.3425 179.0819 255.36 178.32 C
+255.68 178.16 256 178 256.32 177.84 C
+256.16 177.0401 256 176.2399 255.84 175.44 C
+253.0427 174.9164 250.7741 176.1238 247.92 176.4 C
+249.4517 174.0536 251.5922 172.6812 252.72 169.92 C
+252.48 169.52 252.24 169.12 252 168.72 C
+250.4263 168.4119 250.128 168.7093 249.12 169.44 C
+248.4801 171.5998 247.8399 173.7602 247.2 175.92 C
+247.12 175.76 247.04 175.6 246.96 175.44 C
+246.0001 173.1202 245.0399 170.7998 244.08 168.48 C
+242.4238 168.5199 242.3352 168.8069 241.44 169.44 C
+241.44 169.84 241.44 170.24 241.44 170.64 C
+242.9598 172.4798 244.4802 174.3202 246 176.16 C
+246 176.24 246 176.32 246 176.4 C
+243.1739 176.0986 240.8651 174.9655 238.08 175.44 C
+238 176.0799 237.92 176.7201 237.84 177.36 C
+238.08 177.76 238.32 178.16 238.56 178.56 C
+241.1197 178.16 243.6803 177.76 246.24 177.36 C
+245.92 177.68 245.6 178 245.28 178.32 C
+244.1894 180.5418 241.9215 181.2103 241.44 184.08 C
+241.76 184.48 242.08 184.88 242.4 185.28 C
+f
+*U
+*u
+25.2 184.32 m
+25.8399 184.24 26.4801 184.16 27.12 184.08 C
+28.0799 181.7602 29.0401 179.4398 30 177.12 C
+30 177.28 30 177.44 30 177.6 C
+31.2791 179.5073 31.6527 182.4844 32.88 184.32 C
+34.7446 184.2586 34.7367 183.9244 35.52 182.88 C
+34.3717 180.1517 32.2681 178.7121 30.72 176.4 C
+32.9504 176.7436 36.1425 178.1219 38.16 177.36 C
+38.48 177.2 38.8 177.04 39.12 176.88 C
+38.96 176.0801 38.8 175.2799 38.64 174.48 C
+35.8427 173.9564 33.5741 175.1638 30.72 175.44 C
+32.2517 173.0936 34.3922 171.7212 35.52 168.96 C
+35.28 168.56 35.04 168.16 34.8 167.76 C
+33.2263 167.4519 32.928 167.7493 31.92 168.48 C
+31.2801 170.6398 30.6399 172.8002 30 174.96 C
+29.92 174.8 29.84 174.64 29.76 174.48 C
+28.8001 172.1602 27.8399 169.8398 26.88 167.52 C
+25.2238 167.5599 25.1352 167.8469 24.24 168.48 C
+24.24 168.88 24.24 169.28 24.24 169.68 C
+25.7598 171.5198 27.2802 173.3602 28.8 175.2 C
+28.8 175.28 28.8 175.36 28.8 175.44 C
+25.9739 175.1386 23.6651 174.0055 20.88 174.48 C
+20.8 175.1199 20.72 175.7601 20.64 176.4 C
+20.88 176.8 21.12 177.2 21.36 177.6 C
+23.9197 177.2 26.4803 176.8 29.04 176.4 C
+28.72 176.72 28.4 177.04 28.08 177.36 C
+26.9894 179.5818 24.7215 180.2503 24.24 183.12 C
+24.56 183.52 24.88 183.92 25.2 184.32 C
+f
+*U
+*u
+16.8 155.28 m
+17.04 155.28 17.28 155.28 17.52 155.28 C
+17.68 154.4801 17.84 153.6799 18 152.88 C
+21.3587 152.2029 28.6091 150.6788 31.44 151.92 C
+31.6 152.5599 31.76 153.2001 31.92 153.84 C
+32.24 153.76 32.56 153.68 32.88 153.6 C
+32.56 151.2002 32.24 148.7998 31.92 146.4 C
+31.84 146.4 31.76 146.4 31.68 146.4 C
+31.36 147.2799 31.04 148.1601 30.72 149.04 C
+26.9558 149.426 20.5208 151.2254 17.28 149.76 C
+17.0057 148.6836 17.0567 148.5094 16.08 148.08 C
+16.08 148.56 16.08 149.04 16.08 149.52 C
+16.32 151.4398 16.56 153.3602 16.8 155.28 C
+f
+*U
+*u
+%AI3_Note:
+1 D
+259.2 154.56 m
+258.2401 154.64 257.2799 154.72 256.32 154.8 C
+254.7407 153.5517 253.6907 152.892 253.68 150 C
+252.5753 151.1506 252.4284 152.4127 250.8 153.12 c
+249.6803 153.6204 248.3838 153.1798 247.44 152.88 C
+245.5718 149.8892 246.3487 145.5467 246.72 141.12 C
+247.5966 141.5706 247.5139 141.6802 247.68 142.8 C
+250.7303 144.268 257.1519 144.2611 261.12 144.24 C
+261.52 143.5201 261.92 142.7999 262.32 142.08 C
+262.48 142.16 262.64 142.24 262.8 142.32 C
+262.2939 146.9835 262.9069 153.0018 259.2 154.56 C
+f
+0 D
+253.44 146.16 m
+251.3602 146 249.2798 145.84 247.2 145.68 C
+247.0961 147.4518 247.0759 148.3192 247.44 149.76 C
+250.2347 151.5632 252.5741 150.5731 253.44 147.6 C
+253.44 147.12 253.44 146.64 253.44 146.16 C
+f
+255.84 146.16 m
+255.36 146.16 254.88 146.16 254.4 146.16 C
+254.212 147.6015 253.9963 149.1473 254.64 150.24 C
+255.1895 151.3939 255.7875 151.5078 256.8 152.16 C
+258.695 152.1339 259.4488 151.7823 260.64 151.2 C
+262.4826 146.6111 259.9316 146.9308 255.84 146.16 C
+f
+*U
+*u
+%AI3_Note:<< /operation /xor /defaultFill false >>30.96 145.44 m
+31.2 145.44 31.44 145.44 31.68 145.44 C
+31.68 143.8402 31.68 142.2398 31.68 140.64 C
+27.7604 137.6003 23.8396 134.5597 19.92 131.52 C
+23.4396 131.76 26.9604 132 30.48 132.24 C
+30.7108 133.4428 30.7939 134.2203 31.92 134.64 C
+32.0352 132.7199 32.4063 128.9019 31.2 128.16 C
+31.025 129.3791 30.8886 129.8048 30 130.32 C
+25.2005 130.4 20.3995 130.48 15.6 130.56 C
+15.6 130.8 15.6 131.04 15.6 131.28 C
+19.8396 134.6397 24.0804 138.0003 28.32 141.36 C
+24.6576 141.407 20.4835 141.5048 17.52 140.88 C
+16.9529 140.013 16.673 139.709 16.56 138.24 C
+16.24 138.24 15.92 138.24 15.6 138.24 C
+15.4861 140.1909 15.0943 144.2035 16.32 144.96 C
+16.5778 143.6676 16.716 143.0982 17.76 142.56 C
+20.6423 141.6867 29.0767 141.8464 30.24 143.76 C
+30.48 144.3199 30.72 144.8801 30.96 145.44 C
+f
+*U
+*u
+246.96 139.68 m
+247.7623 139.2124 247.9888 138.0532 248.4 137.28 C
+251.6131 136.7448 258.5947 137.1884 260.88 135.36 c
+264.0096 132.8561 262.8308 126.1305 259.44 124.8 C
+255.3969 123.8705 247.3605 127.1522 246.48 123.12 C
+246.24 123.12 246 123.12 245.76 123.12 C
+245.76 124.0799 245.76 125.0401 245.76 126 C
+246.0616 127.4727 245.5903 129.2611 246.96 129.84 C
+247.04 129.2001 247.12 128.5599 247.2 127.92 C
+250.2215 126.9046 256.0197 126.5474 259.44 127.2 C
+259.9999 127.8399 260.5601 128.4801 261.12 129.12 C
+262.0093 131.3721 261.343 133.7947 259.44 134.64 C
+257.0486 136.0524 250.5901 135.9973 247.92 135.36 C
+247.5412 134.4184 247.4176 133.664 246.48 133.2 C
+246.48 134.0799 246.48 134.9601 246.48 135.84 C
+246.64 137.1199 246.8 138.4001 246.96 139.68 C
+f
+*U
+*u
+25.92 121.44 m
+25.9478 119.727 26.3329 118.7106 26.88 117.6 C
+28.0072 117.4036 28.799 117.3241 29.28 116.4 C
+27.2002 116.08 25.1198 115.76 23.04 115.44 C
+23.5751 116.7344 24.5458 116.6584 25.2 117.84 C
+25.12 118.9599 25.04 120.0801 24.96 121.2 C
+22.8002 120.72 20.6398 120.24 18.48 119.76 C
+18.24 119.0401 18 118.3199 17.76 117.6 C
+17.68 117.6 17.6 117.6 17.52 117.6 C
+17.2 119.9198 16.88 122.2402 16.56 124.56 C
+16.8 124.56 17.04 124.56 17.28 124.56 C
+17.52 123.9201 17.76 123.2799 18 122.64 C
+22.3996 123.3599 26.8004 124.0801 31.2 124.8 C
+31.4861 125.8163 31.501 126.7064 32.4 127.2 C
+33.0399 123.0404 33.6801 118.8796 34.32 114.72 C
+33.0401 114.48 31.7599 114.24 30.48 114 C
+30.4 114.32 30.32 114.64 30.24 114.96 C
+31.537 115.4856 31.9666 116.273 32.88 117.12 C
+32.64 118.8798 32.4 120.6402 32.16 122.4 C
+32.08 122.4 32 122.4 31.92 122.4 C
+29.9202 122.08 27.9198 121.76 25.92 121.44 C
+f
+*U
+*u
+256.56 120 m
+258.0798 119.6 259.6002 119.2 261.12 118.8 C
+260.8094 116.2046 259.7443 107.6359 257.76 106.56 C
+257.6 107.3599 257.44 108.1601 257.28 108.96 C
+253.0404 109.8399 248.7996 110.7201 244.56 111.6 C
+244.24 111.0401 243.92 110.4799 243.6 109.92 C
+243.28 109.92 242.96 109.92 242.64 109.92 C
+242.64 110 242.64 110.08 242.64 110.16 C
+243.1999 112.3198 243.7601 114.4802 244.32 116.64 C
+244.48 116.56 244.64 116.48 244.8 116.4 C
+244.88 115.6801 244.96 114.9599 245.04 114.24 C
+248.0721 113.0997 255.8011 110.5734 258.72 111.84 C
+258.9907 113.2649 259.7472 115.015 259.2 116.4 C
+258.4213 117.976 256.7917 118.5642 256.56 120 C
+f
+*U
+*u
+%AI3_Note:
+1 D
+29.28 111.84 m
+26.2814 110.7133 23.7205 110.3796 22.08 108 c
+18.6147 102.9734 22.592 96.9963 27.12 96 c
+38.6042 93.4731 42.3419 111.4991 29.28 111.84 C
+f
+0 D
+21.84 103.44 m
+23.9091 107.2507 25.4741 107.3465 29.52 109.2 C
+31.1913 109.2535 33.0748 109.2977 34.08 108.72 C
+44.6404 104.224 22.5462 91.0083 21.84 103.44 C
+f
+*U
+*u
+%AI3_Note:<< /operation /xor /defaultFill false >>242.16 108.24 m
+243.7059 107.6402 246.7969 107.1718 247.44 105.6 C
+247.28 105.52 247.12 105.44 246.96 105.36 C
+244.5922 106.142 241.9442 105.1376 241.2 103.44 C
+241.04 102.4001 240.88 101.3599 240.72 100.32 C
+244.5089 91.945 260.5259 94.6208 253.2 103.92 C
+253.36 104.16 253.52 104.4 253.68 104.64 C
+258.7948 100.8524 255.0531 91.0047 247.68 92.4 c
+243.2821 93.2323 237.7907 96.794 239.76 102.96 c
+240.546 105.4212 241.7602 105.9775 242.16 108.24 C
+f
+*U
+*u
+%AI3_Note:
+1 D
+39.6 97.2 m
+39.68 96.5601 39.76 95.9199 39.84 95.28 C
+38.4162 93.4084 27.84 87.7832 26.64 90.48 C
+26.56 90.48 26.48 90.48 26.4 90.48 C
+26.16 90.4 25.92 90.32 25.68 90.24 C
+26.6399 88.2402 27.6001 86.2398 28.56 84.24 C
+29.5311 84.8201 29.1805 85.1685 29.04 86.64 C
+30.7198 87.5199 32.4002 88.4001 34.08 89.28 C
+34.32 89.04 34.56 88.8 34.8 88.56 C
+34.9646 86.1182 32.2885 81.9417 30.72 80.16 C
+31.3599 78.8001 32.0001 77.4399 32.64 76.08 C
+36.2781 85.2455 36.48 85.92 V
+37.5199 85.2801 38.5601 84.6399 39.6 84 C
+40.7199 84.24 41.8401 84.48 42.96 84.72 C
+45.1902 87.9471 42.6882 95.8325 39.6 97.2 C
+f
+0 D
+37.44 86.88 m
+36.1732 87.457 35.5496 88.4406 35.28 90 C
+37.1998 90.9599 39.1202 91.9201 41.04 92.88 C
+41.9946 92.1955 42.135 91.0372 42.72 90 C
+42.5763 87.4567 39.918 85.3007 37.44 86.88 C
+f
+*U
+*u
+%AI3_Note:<< /operation /xor /defaultFill false >>235.2 90.72 m
+235.44 90.72 235.68 90.72 235.92 90.72 C
+236.3335 85.5682 239.5001 78.5016 245.28 78 C
+245.6 78.48 245.92 78.96 246.24 79.44 C
+246.56 79.36 246.88 79.28 247.2 79.2 C
+245.9201 77.0402 244.6399 74.8798 243.36 72.72 C
+243.2 72.8 243.04 72.88 242.88 72.96 C
+243.163 74.3633 243.4157 74.9238 242.88 76.08 C
+236.3519 78.7808 234.5493 78.2618 227.52 77.52 C
+228.7199 79.5198 229.9201 81.5202 231.12 83.52 C
+231.28 83.36 231.44 83.2 231.6 83.04 C
+231.1455 81.8909 231.0162 81.791 231.36 80.88 C
+233.7598 80.8 236.1602 80.72 238.56 80.64 C
+237.4401 82.7998 236.3199 84.9602 235.2 87.12 C
+234.72 86.96 234.24 86.8 233.76 86.64 C
+233.6 86.32 233.44 86 233.28 85.68 C
+233.04 85.84 232.8 86 232.56 86.16 C
+233.4399 87.6798 234.3201 89.2002 235.2 90.72 C
+f
+*U
+*u
+46.56 83.28 m
+48.0954 82.6396 49.3893 80.3728 50.16 78.96 C
+47.8402 75.3604 45.5198 71.7596 43.2 68.16 C
+47.4396 69.2799 51.6804 70.4001 55.92 71.52 C
+56.8799 70.2401 57.8401 68.9599 58.8 67.68 C
+58.72 67.52 58.64 67.36 58.56 67.2 C
+58.48 67.2 58.4 67.2 58.32 67.2 C
+57.2455 67.6826 57.2845 68.0203 55.68 68.16 C
+52.4003 65.6802 49.1197 63.1998 45.84 60.72 C
+46 59.8401 46.16 58.9599 46.32 58.08 C
+44.5466 58.6682 42.2719 62.0221 41.76 63.84 C
+41.84 63.92 41.92 64 42 64.08 C
+42.4 63.68 42.8 63.28 43.2 62.88 C
+43.44 62.8 43.68 62.72 43.92 62.64 C
+47.0018 63.4621 52.3697 67.7127 54.24 70.08 C
+51.6965 69.4721 40.7848 65.9626 39.6 66.72 C
+42.3197 70.9596 45.0403 75.2004 47.76 79.44 C
+44.1574 77.4518 40.4469 74.4368 37.68 71.52 C
+37.92 70.8001 38.16 70.0799 38.4 69.36 C
+38.24 69.2 38.08 69.04 37.92 68.88 C
+37.6 69.12 37.28 69.36 36.96 69.6 C
+36.0001 71.0399 35.0399 72.4801 34.08 73.92 C
+34.24 74.08 34.4 74.24 34.56 74.4 C
+35.4539 73.7309 35.4463 73.393 36.96 73.2 C
+40.1416 74.7515 45.5928 78.0847 47.04 81.36 C
+46.88 81.9999 46.72 82.6401 46.56 83.28 C
+f
+*U
+*u
+%AI3_Note:
+1 D
+230.4 67.92 m
+230.7813 70.0056 230.8213 71.4204 230.16 73.2 C
+229.0011 74.0191 228.3788 74.6169 226.32 74.64 C
+223.5435 72.8211 220.511 70.0601 219.12 66.96 C
+218.96 66.8 218.8 66.64 218.64 66.48 C
+219.6015 65.9321 219.6428 66.723 221.28 66.96 C
+224.6397 64.2403 228.0003 61.5197 231.36 58.8 C
+231.12 58.1601 230.88 57.5199 230.64 56.88 C
+230.64 56.8 230.64 56.72 230.64 56.64 C
+230.8 56.56 230.96 56.48 231.12 56.4 C
+232.4799 58.1598 233.8401 59.9202 235.2 61.68 C
+235.2 61.76 235.2 61.84 235.2 61.92 C
+234.4001 61.6 233.5999 61.28 232.8 60.96 C
+231.3601 61.9999 229.9199 63.0401 228.48 64.08 C
+228.4 64.24 228.32 64.4 228.24 64.56 C
+228.4 64.8 228.56 65.04 228.72 65.28 C
+231.1337 66.4033 235.1991 65.4296 238.08 65.28 C
+238.7199 66.0799 239.3601 66.8801 240 67.68 C
+240.32 68 240.64 68.32 240.96 68.64 C
+240.8718 68.6642 233.4373 67.9237 230.4 67.92 C
+f
+0 D
+228.24 65.76 m
+227.92 65.52 227.6 65.28 227.28 65.04 C
+225.6002 66.3999 223.9198 67.7601 222.24 69.12 C
+222.7182 70.7479 223.7311 71.3135 224.88 72.24 C
+225.5199 72.16 226.1601 72.08 226.8 72 C
+227.9217 71.523 228.5039 70.9929 228.96 69.84 C
+229.797 68.286 228.8198 67.1003 228.24 65.76 C
+f
+*U
+*u
+%AI3_Note:<< /operation /xor /defaultFill false >>217.44 65.28 m
+218.7448 64.7095 220.1323 63.3773 220.56 61.92 C
+220.48 61.84 220.4 61.76 220.32 61.68 C
+219.2292 62.1726 217.6153 62.9722 216.24 62.4 C
+215.5201 61.92 214.7999 61.44 214.08 60.96 C
+214.6399 60.4001 215.2001 59.8399 215.76 59.28 C
+218.3197 56.4803 220.8803 53.6797 223.44 50.88 C
+224.2399 51.2 225.0401 51.52 225.84 51.84 C
+226 51.68 226.16 51.52 226.32 51.36 C
+226.32 51.28 226.32 51.2 226.32 51.12 C
+224.4002 49.5202 222.4798 47.9198 220.56 46.32 C
+220.48 46.48 220.4 46.64 220.32 46.8 C
+220.8 47.5199 221.28 48.2401 221.76 48.96 C
+218.6403 52.3197 215.5197 55.6803 212.4 59.04 C
+211.6801 58.3201 210.9599 57.5999 210.24 56.88 C
+210.48 55.6001 210.72 54.3199 210.96 53.04 C
+210.8 52.96 210.64 52.88 210.48 52.8 C
+209.5201 53.7599 208.5599 54.7201 207.6 55.68 C
+210.8797 58.8797 214.1603 62.0803 217.44 65.28 C
+f
+*U
+*u
+%AI3_Note:
+1 D
+201.84 184.56 m
+195.6225 180.1146 182.2043 181.3479 171.6 181.44 C
+171.6 184.2397 171.6 187.0403 171.6 189.84 C
+166.4805 189.84 161.3595 189.84 156.24 189.84 C
+156.24 187.0403 156.24 184.2397 156.24 181.44 C
+151.3605 181.44 146.4795 181.44 141.6 181.44 C
+141.6 179.8402 141.6 178.2398 141.6 176.64 C
+146.4795 176.56 151.3605 176.48 156.24 176.4 C
+156.24 174.0002 156.24 171.5998 156.24 169.2 C
+141.658 169.1947 110.2921 171.1342 101.28 165.84 c
+90.6925 159.6202 87.2149 145.0344 91.44 129.6 C
+95.9995 115.6014 100.5605 101.5986 105.12 87.6 c
+108.2546 78.6345 111.9866 71.774 111.84 59.52 C
+108.8803 59.52 105.9197 59.52 102.96 59.52 C
+102.96 57.9202 102.96 56.3198 102.96 54.72 C
+123.7579 54.64 144.5621 54.56 165.36 54.48 C
+160.9604 58.8796 156.5596 63.2804 152.16 67.68 C
+152.16 80.3187 152.16 92.9613 152.16 105.6 C
+152.24 105.6 152.32 105.6 152.4 105.6 C
+153.6887 99.152 160.1227 80.3851 166.32 79.44 C
+166.8799 81.3598 167.4401 83.2802 168 85.2 C
+163.3605 97.5188 158.7195 109.8412 154.08 122.16 C
+155.2799 122.64 156.4801 123.12 157.68 123.6 C
+157.9927 125.3659 156.8606 126.7707 156.48 128.64 C
+155.0561 129.1812 153.9609 128.3104 152.16 127.92 C
+152.16 135.6792 152.16 143.4408 152.16 151.2 C
+156.9595 151.2 161.7605 151.2 166.56 151.2 C
+166.56 140.2411 166.56 129.2789 166.56 118.32 C
+171.1195 121.7597 175.6805 125.2003 180.24 128.64 C
+184.7196 125.2803 189.2004 121.9197 193.68 118.56 C
+193.68 137.8381 193.68 157.1219 193.68 176.4 C
+201.5673 174.7772 207.0854 169.6404 209.76 162.96 C
+209.92 162.88 210.08 162.8 210.24 162.72 C
+210.24 173.5189 210.24 184.3211 210.24 195.12 C
+207.0026 191.978 205.5773 187.2321 201.84 184.56 c
+f
+0 D
+96.48 130.8 m
+94.6109 136.1256 94.6402 142.8153 95.04 149.28 C
+99.6795 146.0803 104.3205 142.8797 108.96 139.68 C
+109.12 139.68 109.28 139.68 109.44 139.68 C
+105.2804 136.8803 101.1196 134.0797 96.96 131.28 C
+96.8 131.12 96.64 130.96 96.48 130.8 C
+f
+111.36 84.72 m
+106.8804 98.3186 102.3996 111.9214 97.92 125.52 C
+102.3996 128.6397 106.8804 131.7603 111.36 134.88 C
+111.44 118.1617 111.52 101.4383 111.6 84.72 C
+111.52 84.72 111.44 84.72 111.36 84.72 C
+f
+111.6 144.24 m
+106.9605 147.3597 102.3195 150.4803 97.68 153.6 C
+97.44 153.92 97.2 154.24 96.96 154.56 C
+100.4076 158.9723 104.0584 163.4364 111.6 163.68 C
+111.6 157.2006 111.6 150.7194 111.6 144.24 C
+f
+130.56 153.84 m
+126.1604 150.8803 121.7596 147.9197 117.36 144.96 C
+117.2 144.8 117.04 144.64 116.88 144.48 C
+116.8 150.8794 116.72 157.2806 116.64 163.68 C
+123.3575 162.2682 127.8662 159.2486 130.56 153.84 C
+f
+126.96 101.04 m
+128.8798 107.2794 130.8002 113.5206 132.72 119.76 C
+138.8226 119.7572 143.3419 118.9764 147.12 119.52 C
+147.12 113.3606 147.12 107.1994 147.12 101.04 C
+140.4007 101.04 133.6793 101.04 126.96 101.04 C
+f
+128.16 96 m
+126.0802 87.2809 123.9998 78.5591 121.92 69.84 C
+121.1442 69.0933 118.6537 69.2721 117.12 69.36 C
+119.9197 78.2391 122.7203 87.1209 125.52 96 C
+126.3999 96 127.2801 96 128.16 96 C
+f
+130.8 131.28 m
+130.8 131.12 130.8 130.96 130.8 130.8 C
+126.8004 133.5197 122.7996 136.2403 118.8 138.96 C
+118.72 139.12 118.64 139.28 118.56 139.44 C
+122.9596 142.4797 127.3604 145.5203 131.76 148.56 C
+133.8001 146.4909 131.9589 133.4171 130.8 131.28 C
+f
+129.36 125.52 m
+125.2004 112.2413 121.0396 98.9587 116.88 85.68 C
+116.88 85.52 116.88 85.36 116.88 85.2 c
+116.8 101.5984 116.72 118.0016 116.64 134.4 C
+120.8796 131.4403 125.1204 128.4797 129.36 125.52 C
+f
+116.88 59.52 m
+116.88 61.1198 116.88 62.7202 116.88 64.32 C
+118.7998 64.32 120.7202 64.32 122.64 64.32 c
+122.72 64.32 122.8 64.32 122.88 64.32 C
+124.3998 62.7202 125.9202 61.1198 127.44 59.52 C
+123.9204 59.52 120.3996 59.52 116.88 59.52 C
+f
+137.76 59.52 m
+136.8001 59.52 135.8399 59.52 134.88 59.52 C
+132.1603 62.1597 129.4397 64.8003 126.72 67.44 C
+128.2398 74.3193 129.7602 81.2007 131.28 88.08 C
+133.8293 85.0237 137.9253 66.0946 137.76 59.52 C
+f
+134.64 96 m
+138.7996 96 142.9604 96 147.12 96 C
+147.12 87.1209 147.12 78.2391 147.12 69.36 C
+145.4402 69.36 143.7598 69.36 142.08 69.36 C
+139.6002 78.2391 137.1198 87.1209 134.64 96 C
+f
+153.36 59.52 m
+149.8404 59.52 146.3196 59.52 142.8 59.52 C
+142.8 61.1198 142.8 62.7202 142.8 64.32 C
+144.7198 64.32 146.6402 64.32 148.56 64.32 c
+148.64 64.32 148.72 64.32 148.8 64.32 C
+150.3198 62.7202 151.8402 61.1198 153.36 59.52 C
+f
+166.56 156.24 m
+160.1606 156.24 153.7594 156.24 147.36 156.24 C
+147.28 149.9206 147.2 143.5994 147.12 137.28 C
+145.2641 137.6656 144.291 137.2626 143.04 136.56 C
+141.4376 132.0426 144.018 129.3536 144.96 125.04 C
+141.4404 124.96 137.9196 124.88 134.4 124.8 C
+136.2094 134.6055 140.1102 147.8564 134.64 157.2 c
+133.0894 159.8486 130.7108 161.6165 128.88 163.92 C
+139.6789 164 150.4811 164.08 161.28 164.16 C
+161.28 168.2396 161.28 172.3204 161.28 176.4 C
+163.0398 176.4 164.8002 176.4 166.56 176.4 C
+166.56 169.6807 166.56 162.9593 166.56 156.24 C
+f
+166.56 181.44 m
+164.8002 181.44 163.0398 181.44 161.28 181.44 C
+161.28 182.5599 161.28 183.6801 161.28 184.8 C
+163.0398 184.8 164.8002 184.8 166.56 184.8 C
+166.56 183.6801 166.56 182.5599 166.56 181.44 C
+f
+188.64 128.64 m
+185.9203 130.6398 183.1997 132.6402 180.48 134.64 C
+180.32 134.8 180.16 134.96 180 135.12 C
+177.2003 132.9602 174.3997 130.7998 171.6 128.64 C
+171.6 144.5584 171.6 160.4816 171.6 176.4 C
+177.2794 176.4 182.9606 176.4 188.64 176.4 C
+188.64 160.4816 188.64 144.5584 188.64 128.64 C
+f
+*U
+*u
+1 D
+65.52 61.2 m
+65.36 61.36 65.2 61.52 65.04 61.68 C
+64.8 61.68 64.56 61.68 64.32 61.68 C
+61.2581 59.2014 52.3121 54.628 48.48 55.92 C
+48.32 55.76 48.16 55.6 48 55.44 C
+48.16 55.36 48.32 55.28 48.48 55.2 C
+49.7599 53.9201 51.0401 52.6399 52.32 51.36 C
+52.6648 52.3724 52.1994 52.7254 51.6 54 C
+52.7999 54.7199 54.0001 55.4401 55.2 56.16 C
+56.5599 54.9601 57.9201 53.7599 59.28 52.56 C
+58.7201 51.1201 58.1599 49.6799 57.6 48.24 C
+56.9601 48.56 56.3199 48.88 55.68 49.2 C
+55.52 49.04 55.36 48.88 55.2 48.72 C
+56.6399 47.3601 58.0801 45.9999 59.52 44.64 C
+59.68 44.48 59.84 44.32 60 44.16 C
+60.08 44.24 60.16 44.32 60.24 44.4 C
+59.0249 49.9793 63.8878 55.819 65.52 61.2 C
+f
+0 D
+56.4 56.64 m
+58.1598 57.5199 59.9202 58.4001 61.68 59.28 C
+62.5509 58.5835 60.3177 55.002 60 53.52 C
+58.4547 53.9912 57.2439 55.4574 56.4 56.64 C
+f
+*U
+*u
+%AI3_Note:<< /operation /xor /defaultFill false >>70.32 56.16 m
+74.1596 53.4403 78.0004 50.7197 81.84 48 C
+81.0401 46.8001 80.2399 45.5999 79.44 44.4 C
+79.2 44.56 78.96 44.72 78.72 44.88 C
+79.1499 46.0674 79.2532 47.5627 78.96 48.96 C
+78.2401 49.5199 77.5199 50.0801 76.8 50.64 C
+76.64 50.56 76.48 50.48 76.32 50.4 C
+73.8402 46.8004 71.3598 43.1996 68.88 39.6 C
+69.36 38.8801 69.84 38.1599 70.32 37.44 C
+70.24 37.28 70.16 37.12 70.08 36.96 C
+70 36.96 69.92 36.96 69.84 36.96 C
+67.8402 38.3999 65.8398 39.8401 63.84 41.28 C
+64 41.44 64.16 41.6 64.32 41.76 C
+65.8459 40.929 66.3758 41.0448 67.68 42 C
+69.9998 45.3597 72.3202 48.7203 74.64 52.08 C
+74.48 52.16 74.32 52.24 74.16 52.32 C
+72.3284 54.3457 70.4065 52.9287 68.16 52.32 C
+68.32 52.64 68.48 52.96 68.64 53.28 C
+69.1999 54.2399 69.7601 55.2001 70.32 56.16 C
+f
+*U
+*u
+206.4 55.44 m
+207.1292 54.4936 206.8289 54.329 205.68 53.52 C
+205.68 53.2 205.68 52.88 205.68 52.56 C
+208.3197 49.2003 210.9603 45.8397 213.6 42.48 C
+214.3999 42.72 215.2001 42.96 216 43.2 C
+216.08 43.04 216.16 42.88 216.24 42.72 C
+216.08 42.48 215.92 42.24 215.76 42 C
+214.0802 40.8001 212.3998 39.5999 210.72 38.4 C
+210.48 38.48 210.24 38.56 210 38.64 C
+210 38.72 210 38.8 210 38.88 C
+210.8586 39.4953 211.2051 39.7218 211.44 41.04 C
+208.7203 44.4797 205.9997 47.9203 203.28 51.36 C
+202.5601 51.12 201.8399 50.88 201.12 50.64 C
+201.04 50.8 200.96 50.96 200.88 51.12 C
+200.88 51.2 200.88 51.28 200.88 51.36 C
+202.7198 52.7199 204.5602 54.0801 206.4 55.44 C
+f
+*U
+*u
+82.8 47.52 m
+84.9598 46.4001 87.1202 45.2799 89.28 44.16 C
+89.2 43.92 89.12 43.68 89.04 43.44 C
+87.6776 43.7436 87.1024 44.001 85.92 43.44 C
+84.5854 39.3988 80.8018 36.6291 80.16 32.16 C
+80.64 31.68 81.12 31.2 81.6 30.72 C
+81.52 30.48 81.44 30.24 81.36 30 C
+79.2802 31.1199 77.1998 32.2401 75.12 33.36 C
+75.2 33.68 75.28 34 75.36 34.32 C
+76.0799 34.08 76.8001 33.84 77.52 33.6 C
+79.6798 37.2796 81.8402 40.9604 84 44.64 C
+83.6498 46.2249 82.7826 46.298 82.8 47.52 C
+f
+*U
+*u
+%AI3_Note:
+1 D
+205.92 36.96 m
+203.6002 37.9199 201.2798 38.8801 198.96 39.84 C
+200.0058 42.3197 201.9342 45.7827 198.24 47.28 C
+197.3601 47.36 196.4799 47.44 195.6 47.52 C
+193.3088 46.0656 188.4817 44.8303 187.44 42.24 C
+190.6831 42.8107 195.6744 34.3457 196.32 30.96 C
+195.9862 30.5088 196.0931 30.5653 195.6 30.24 C
+195.44 29.84 195.28 29.44 195.12 29.04 C
+197.1198 30.0799 199.1202 31.1201 201.12 32.16 C
+201.12 32.24 201.12 32.32 201.12 32.4 C
+200.3333 32.8909 200.0665 32.5777 198.72 32.4 C
+197.7601 34.0798 196.7999 35.7602 195.84 37.44 C
+196.08 37.68 196.32 37.92 196.56 38.16 C
+199.3055 38.177 202.6856 35.792 205.2 34.56 C
+206.3199 35.1999 207.4401 35.8401 208.56 36.48 C
+208.64 36.64 208.72 36.8 208.8 36.96 C
+207.7984 37.535 207.5443 36.6092 205.92 36.96 C
+f
+0 D
+195.84 38.64 m
+195.6 38.56 195.36 38.48 195.12 38.4 C
+194.0001 40.3198 192.8799 42.2402 191.76 44.16 C
+192.5599 44.7199 193.3601 45.2801 194.16 45.84 C
+194.7999 45.76 195.4401 45.68 196.08 45.6 C
+197.3367 45.0255 197.7278 44.2713 198.24 42.96 C
+198.243 40.1607 197.3042 39.8536 195.84 38.64 C
+f
+*U
+*u
+%AI3_Note:<< /operation /xor /defaultFill false >>186 42.24 m
+186.16 42.08 186.32 41.92 186.48 41.76 C
+185.9201 41.2001 185.3599 40.6399 184.8 40.08 C
+185.2399 34.9374 191.4206 28.1838 186 24.48 c
+178.1547 19.1194 174.844 30.1283 173.52 35.28 C
+172.6401 35.52 171.7599 35.76 170.88 36 C
+170.88 36.08 170.88 36.16 170.88 36.24 C
+172.9598 37.0399 175.0402 37.8401 177.12 38.64 C
+177.2 38.48 177.28 38.32 177.36 38.16 C
+177.28 38 177.2 37.84 177.12 37.68 C
+176.64 37.28 176.16 36.88 175.68 36.48 C
+176.4833 33.1539 178.5345 26.3093 181.44 24.96 C
+184.058 24.2061 185.6298 25.8577 186.96 27.12 C
+187.4432 31.5388 184.9181 36.4278 182.88 39.36 C
+182.0001 39.28 181.1199 39.2 180.24 39.12 C
+181.0298 41.0193 184.3289 41.2263 186 42.24 C
+f
+*U
+*u
+%AI3_Note:
+1 D
+93.36 41.04 m
+91.6011 40.1689 89.6851 39.6356 88.56 38.16 c
+84.7719 33.1919 86.6917 22.2899 95.52 24.24 c
+104.2098 26.1595 104.9751 41.4992 93.36 41.04 C
+f
+0 D
+90.48 26.16 m
+86.6471 31.3531 90.5303 37.3739 94.56 39.84 C
+104.3329 40.0616 99.8174 22.9809 90.48 26.16 C
+f
+*U
+*u
+%AI3_Note:<< /operation /xor /defaultFill false >>105.6 36.72 m
+107.1198 36.32 108.6402 35.92 110.16 35.52 C
+111.9998 30.9605 113.8402 26.3995 115.68 21.84 C
+115.84 21.84 116 21.84 116.16 21.84 C
+116.5745 25.1613 119.0315 29.4609 117.6 32.64 C
+117.0401 32.96 116.4799 33.28 115.92 33.6 C
+116.08 33.76 116.24 33.92 116.4 34.08 C
+118.3998 33.6 120.4002 33.12 122.4 32.64 C
+122.4 32.4 122.4 32.16 122.4 31.92 C
+120.8093 31.9463 120.3703 31.7327 119.52 31.2 C
+118.4001 26.6405 117.2799 22.0795 116.16 17.52 C
+115.92 17.52 115.68 17.52 115.44 17.52 C
+115.28 17.6 115.12 17.68 114.96 17.76 C
+112.9602 22.7195 110.9598 27.6805 108.96 32.64 C
+108.88 32.48 108.8 32.32 108.72 32.16 C
+106.8254 28.7607 105.2369 21.8096 108.72 20.16 C
+108.64 19.92 108.56 19.68 108.48 19.44 C
+108.4 19.44 108.32 19.44 108.24 19.44 C
+106.1602 20.0799 104.0798 20.7201 102 21.36 C
+102.6391 21.7098 104.1902 21.9919 105.12 22.56 C
+105.9199 26.2396 106.7201 29.9204 107.52 33.6 C
+107.0377 35.4025 105.8427 35.3642 105.6 36.72 C
+f
+*U
+*u
+168.48 35.76 m
+168.8 35.76 169.12 35.76 169.44 35.76 C
+169.84 33.9202 170.24 32.0798 170.64 30.24 C
+170.32 30.24 170 30.24 169.68 30.24 C
+168.8446 32.4505 167.497 33.1686 165.6 34.32 C
+156.9045 33.2589 160.8943 21.5609 166.8 19.68 C
+170.4069 20.7639 170.2918 21.7107 172.08 24.48 C
+172.32 24.4 172.56 24.32 172.8 24.24 C
+169.6281 14.1692 156.1001 18.5177 158.16 28.56 c
+159.8677 36.8855 167.5171 33.9408 168.48 35.76 C
+f
+*U
+*u
+147.12 24.72 m
+148.3199 24.88 149.5201 25.04 150.72 25.2 C
+150.96 25.9999 151.2 26.8001 151.44 27.6 C
+151.76 27.6 152.08 27.6 152.4 27.6 C
+152.56 25.5202 152.72 23.4398 152.88 21.36 C
+152.56 21.36 152.24 21.36 151.92 21.36 C
+151.7332 22.7048 151.5109 23.2422 150.48 23.76 C
+149.4401 23.76 148.3999 23.76 147.36 23.76 C
+147.6 21.6002 147.84 19.4398 148.08 17.28 C
+150.1347 16.6689 152.7136 17.2618 154.32 17.76 C
+154.657 19.0338 155.3198 20.8379 156.48 21.36 C
+156.56 19.7602 156.64 18.1598 156.72 16.56 C
+152.2404 16.16 147.7596 15.76 143.28 15.36 C
+143.28 15.68 143.28 16 143.28 16.32 C
+143.9999 16.56 144.7201 16.8 145.44 17.04 C
+145.04 21.4396 144.64 25.8404 144.24 30.24 C
+143.4401 30.56 142.6399 30.88 141.84 31.2 C
+141.84 31.28 141.84 31.36 141.84 31.44 C
+145.9996 31.84 150.1604 32.24 154.32 32.64 C
+154.4 31.3601 154.48 30.0799 154.56 28.8 C
+153.5201 29.6799 152.4799 30.5601 151.44 31.44 C
+149.8402 31.28 148.2398 31.12 146.64 30.96 C
+146.8 28.8802 146.96 26.7998 147.12 24.72 C
+f
+*U
+*u
+132.48 32.16 m
+135.7788 32.1464 136.837 31.3957 139.2 31.68 C
+139.2 29.9202 139.2 28.1598 139.2 26.4 C
+138.88 26.4 138.56 26.4 138.24 26.4 C
+137.4708 30.3612 134.8196 32.627 131.52 30 C
+131.44 29.76 131.36 29.52 131.28 29.28 C
+131.44 28.5601 131.6 27.8399 131.76 27.12 C
+134.044 25.6601 138.1778 24.5729 139.2 21.84 C
+139.2 20.6401 139.2 19.4399 139.2 18.24 C
+135.3827 14.1005 132.6703 16.6513 128.4 16.08 C
+128.4 17.5199 128.4 18.9601 128.4 20.4 C
+128.48 20.8 128.56 21.2 128.64 21.6 C
+130.9497 20.4251 130.7439 15.2672 134.88 16.56 C
+135.5199 16.8 136.1601 17.04 136.8 17.28 C
+137.1136 18.4462 137.2903 19.3366 137.04 20.64 C
+135.1292 23.051 131.4554 23.8665 129.36 26.16 C
+129.2136 30.0526 130.2501 30.7417 132.48 32.16 C
+f
+*U
+LB
+%AI5_EndLayer--
+%AI5_BeginLayer
+1 1 1 1 0 0 1 2 79 255 79 0 50 Lb
+(Layer 3) Ln
+0 A
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_Illustrator_AI5 /terminate get exec
+Adobe_shading_AI8 /terminate get exec
+Adobe_ColorImage_AI6 /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_level2_AI5 /terminate get exec
+%%EOF
